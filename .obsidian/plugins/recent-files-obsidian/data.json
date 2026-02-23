@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "gh",
+      "path": "System Setup/gh.md"
+    },
+    {
       "basename": "Git",
       "path": "System Setup/Git.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "System Setup/Obsidian.md"
+    },
+    {
+      "basename": "🚀 Git Complete Workflow Cheat Sheet",
+      "path": "System Setup/🚀 Git Complete Workflow Cheat Sheet.md"
     },
     {
       "basename": "Software",
@@ -47,14 +59,6 @@
     {
       "basename": "Python",
       "path": "System Setup/Python.md"
-    },
-    {
-      "basename": "gh",
-      "path": "System Setup/gh.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "System Setup/Obsidian.md"
     }
   ],
   "omittedPaths": [],

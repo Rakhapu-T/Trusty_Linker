@@ -10,7 +10,9 @@
     "highTextContrast": false
   },
   "knownTags": {
+    "cheat_sheet": 1,
     "essential_software": 1,
+    "git": 2,
     "software": 1
   },
   "tagColors": {},
