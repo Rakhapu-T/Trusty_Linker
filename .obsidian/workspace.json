@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Setup/Software.md",
+                "file": "System Setup/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software"
+              "title": "Git"
             }
           }
         ]
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Setup/Software.md",
+                "file": "System Setup/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Software"
+              "title": "Backlinks for Git"
             }
           },
           {
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Setup/Software.md",
+                "file": "System Setup/Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Software"
+              "title": "Outline of Git"
             }
           }
         ],
@@ -225,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,8 +243,10 @@
   },
   "active": "f5fff4b210f1c0fd",
   "lastOpenFiles": [
-    "System Setup/Neovim.md",
     "System Setup/Software.md",
+    "Pseudocode.md",
+    "Untitled",
+    "System Setup/Neovim.md",
     "System Setup/C++.md",
     "ROS2/ROS2.md",
     "ROS2/PTX4.md",

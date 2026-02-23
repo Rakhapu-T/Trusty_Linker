@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Git",
+      "path": "System Setup/Git.md"
+    },
+    {
       "basename": "Software",
       "path": "System Setup/Software.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Java",
       "path": "System Setup/Java.md"
-    },
-    {
-      "basename": "Git",
-      "path": "System Setup/Git.md"
     },
     {
       "basename": "VS Code",
