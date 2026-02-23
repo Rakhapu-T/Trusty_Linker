@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Setup/gh.md",
+                "file": "System Setup/Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gh"
+              "title": "Java"
             }
           }
         ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Setup/gh.md",
+                "file": "System Setup/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gh"
+              "title": "Backlinks for Java"
             }
           },
           {
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Setup/gh.md",
+                "file": "System Setup/Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gh"
+              "title": "Outline of Java"
             }
           }
         ],
@@ -258,13 +258,16 @@
   },
   "active": "0fc869a83ad1975b",
   "lastOpenFiles": [
-    "System Setup/Git.md",
-    "System Setup/Obsidian.md",
-    "System Setup/🚀 Git Complete Workflow Cheat Sheet.md",
+    "System Setup/VS Code.md",
     "System Setup/Software.md",
+    "System Setup/Python.md",
+    "System Setup/Obsidian.md",
+    "System Setup/Neovim.md",
+    "System Setup/🚀 Git Complete Workflow Cheat Sheet.md",
+    "System Setup/Git.md",
+    "System Setup/gh.md",
     "Pseudocode.md",
     "Untitled",
-    "System Setup/Neovim.md",
     "System Setup/C++.md",
     "ROS2/ROS2.md",
     "ROS2/PTX4.md",
@@ -272,9 +275,6 @@
     "System Setup/C.md",
     "System Setup/Matlab.md",
     "System Setup/Java.md",
-    "System Setup/VS Code.md",
-    "System Setup/Python.md",
-    "System Setup/gh.md",
     "System Setup",
     "C++",
     "ROS2",
