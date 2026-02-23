@@ -1,0 +1,47 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "kfL3l_hqsm2pu92hflPS2",
+      "name": "Blue",
+      "value": "#146eff"
+    },
+    {
+      "id": "PFMRP4699Kl6QXd_oZaRw",
+      "name": "Purple",
+      "value": "#b357ff"
+    },
+    {
+      "id": "62Abs0sglUT_Oyo8yPd5L",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "bjc4NvU-GZsx_bPiqj206",
+      "name": "White",
+      "value": "#ffffff"
+    },
+    {
+      "id": "qZ03Lc7isDP5yzkEWdljl",
+      "name": "Orange",
+      "value": "#ff772e"
+    },
+    {
+      "id": "jKBZ6vDsr-pNAGHZ9NVjI",
+      "name": "Yellow",
+      "value": "#eeff00"
+    },
+    {
+      "id": "FuYsH_e5AoIKFgsTu7jrp",
+      "name": "Green",
+      "value": "#3fbc2f"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "System Setup/Software.md",
+      "color": "62Abs0sglUT_Oyo8yPd5L"
+    }
+  ]
+}

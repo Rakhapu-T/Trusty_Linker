@@ -1,0 +1,64 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Neovim",
+      "path": "System Setup/Neovim.md"
+    },
+    {
+      "basename": "Software",
+      "path": "System Setup/Software.md"
+    },
+    {
+      "basename": "C++",
+      "path": "System Setup/C++.md"
+    },
+    {
+      "basename": "ROS2",
+      "path": "ROS2/ROS2.md"
+    },
+    {
+      "basename": "PTX4",
+      "path": "ROS2/PTX4.md"
+    },
+    {
+      "basename": "Bash",
+      "path": "System Setup/Bash.md"
+    },
+    {
+      "basename": "C",
+      "path": "System Setup/C.md"
+    },
+    {
+      "basename": "Matlab",
+      "path": "System Setup/Matlab.md"
+    },
+    {
+      "basename": "Java",
+      "path": "System Setup/Java.md"
+    },
+    {
+      "basename": "Git",
+      "path": "System Setup/Git.md"
+    },
+    {
+      "basename": "VS Code",
+      "path": "System Setup/VS Code.md"
+    },
+    {
+      "basename": "Python",
+      "path": "System Setup/Python.md"
+    },
+    {
+      "basename": "gh",
+      "path": "System Setup/gh.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "System Setup/Obsidian.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

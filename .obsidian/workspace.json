@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "284274d322ed5cd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8fbf9431911d1ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5fff4b210f1c0fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Setup/Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software"
+            }
+          },
+          {
+            "id": "1e41a456d72a5a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Setup/Neovim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neovim"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf0f8bcb36a4d022",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ce5dd639c383761",
+        "type": "tabs",
+        "dimension": 64.4776119402985,
+        "children": [
+          {
+            "id": "5e7351dbd8133120",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "691a0e28fabda2b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "71087e85e14b3d95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f883309e69f5bee5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a47c58cc05146f37",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "98f5fa1e68445bae",
+        "type": "tabs",
+        "dimension": 35.52238805970149,
+        "children": [
+          {
+            "id": "f325549ad2733946",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "831d9cd04447cae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "827bc3206206e532",
+        "type": "tabs",
+        "dimension": 60.297482837528605,
+        "children": [
+          {
+            "id": "cba2a178d1cade9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System Setup/Neovim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Neovim"
+            }
+          },
+          {
+            "id": "479ce4ab6ba5226d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "87d08c8d760e5d2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c53cd7cbb7e5ed6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6c0748ad9efd6501",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System Setup/Neovim.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Neovim"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e6b85105e6988fd9",
+        "type": "tabs",
+        "dimension": 39.702517162471395,
+        "children": [
+          {
+            "id": "b30475e316b79d25",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1e41a456d72a5a4e",
+  "lastOpenFiles": [
+    "System Setup/Software.md",
+    "System Setup/C++.md",
+    "ROS2/ROS2.md",
+    "ROS2/PTX4.md",
+    "System Setup/Bash.md",
+    "System Setup/C.md",
+    "System Setup/Matlab.md",
+    "System Setup/Java.md",
+    "System Setup/Neovim.md",
+    "System Setup/Git.md",
+    "System Setup/VS Code.md",
+    "System Setup/Python.md",
+    "System Setup/gh.md",
+    "System Setup/Obsidian.md",
+    "System Setup",
+    "C++",
+    "ROS2",
+    "2026-02-22.md",
+    "_utils",
+    "_templates",
+    "Untitled 1.base",
+    "Untitled.base"
+  ]
+}
