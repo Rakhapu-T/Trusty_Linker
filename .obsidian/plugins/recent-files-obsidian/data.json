@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Neovim",
-      "path": "System Setup/Neovim.md"
-    },
-    {
       "basename": "Software",
       "path": "System Setup/Software.md"
+    },
+    {
+      "basename": "Neovim",
+      "path": "System Setup/Neovim.md"
     },
     {
       "basename": "C++",
