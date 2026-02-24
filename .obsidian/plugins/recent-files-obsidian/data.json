@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "ROS2",
+      "path": "ROS2/ROS2.md"
+    },
+    {
+      "basename": "2026-02-24",
+      "path": "Daily Objectives/2026-02-24.md"
+    },
+    {
+      "basename": "2026-02-23",
+      "path": "Daily Objectives/2026-02-23.md"
+    },
+    {
+      "basename": "Git",
+      "path": "System Setup/Git.md"
+    },
+    {
+      "basename": "()",
+      "path": "().md"
+    },
+    {
+      "basename": "PTX4",
+      "path": "ROS2/PTX4.md"
+    },
+    {
+      "basename": "2026-03-03",
+      "path": "Daily Objectives/2026-03-03.md"
+    },
+    {
+      "basename": "2026-03-02",
+      "path": "Daily Objectives/2026-03-02.md"
+    },
+    {
+      "basename": "2026-02-27",
+      "path": "Daily Objectives/2026-02-27.md"
+    },
+    {
+      "basename": "2026-02-26",
+      "path": "Daily Objectives/2026-02-26.md"
+    },
+    {
+      "basename": "2026-02-25",
+      "path": "Daily Objectives/2026-02-25.md"
+    },
+    {
+      "basename": "C++",
+      "path": "System Setup/C++.md"
+    },
+    {
+      "basename": "C",
+      "path": "System Setup/C.md"
+    },
+    {
       "basename": "Java",
       "path": "System Setup/Java.md"
     },
@@ -29,32 +81,12 @@
       "path": "System Setup/🚀 Git Complete Workflow Cheat Sheet.md"
     },
     {
-      "basename": "Git",
-      "path": "System Setup/Git.md"
-    },
-    {
       "basename": "gh",
       "path": "System Setup/gh.md"
     },
     {
-      "basename": "C++",
-      "path": "System Setup/C++.md"
-    },
-    {
-      "basename": "ROS2",
-      "path": "ROS2/ROS2.md"
-    },
-    {
-      "basename": "PTX4",
-      "path": "ROS2/PTX4.md"
-    },
-    {
       "basename": "Bash",
       "path": "System Setup/Bash.md"
-    },
-    {
-      "basename": "C",
-      "path": "System Setup/C.md"
     },
     {
       "basename": "Matlab",
