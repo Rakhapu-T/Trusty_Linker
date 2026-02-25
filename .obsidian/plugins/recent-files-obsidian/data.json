@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "ROS2 - checkpoints",
+      "path": "ROS2 - checkpoints.md"
+    },
+    {
+      "basename": "ROS2 Commands",
+      "path": "ROS2 Commands.md"
+    },
+    {
       "basename": "ROS2",
       "path": "ROS2/ROS2.md"
+    },
+    {
+      "basename": "PTX4",
+      "path": "ROS2/PTX4.md"
     },
     {
       "basename": "2026-02-24",
@@ -15,14 +27,6 @@
     {
       "basename": "Git",
       "path": "System Setup/Git.md"
-    },
-    {
-      "basename": "()",
-      "path": "().md"
-    },
-    {
-      "basename": "PTX4",
-      "path": "ROS2/PTX4.md"
     },
     {
       "basename": "2026-03-03",

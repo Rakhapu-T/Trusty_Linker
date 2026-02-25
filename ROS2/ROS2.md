@@ -1,6 +1,7 @@
 ---
 tags:
   - MSc
+  - tutorial
 ---
 
 # Installation
@@ -33,3 +34,7 @@ Visit [here](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Configur
 
 # Start up - Tutorial
 A comprehensive tutorial on how to use ROS2 can be found on the [official documentation](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html).
+
+
+# Useful commands
+A set of useful ROS2 commands can be found [[ROS2 Commands|here]].

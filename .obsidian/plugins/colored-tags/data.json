@@ -11,10 +11,12 @@
   },
   "knownTags": {
     "cheat_sheet": 1,
+    "checkpoint": 2,
     "essential_software": 1,
     "git": 2,
     "msc": 3,
-    "software": 1
+    "software": 1,
+    "tutorial": 4
   },
   "tagColors": {},
   "_version": 4
