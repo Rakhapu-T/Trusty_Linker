@@ -22,7 +22,7 @@ These Notes are meant to outline all the software I use on my personal computer.
 2. [[Java]]
 3. [[C]]
 4. [[C++]]
-5. [[Matlab]]
+5. [[System Setup/Matlab]]
 
 # 3. Graphics
 1. [kdenlive](https://kdenlive.org/)
