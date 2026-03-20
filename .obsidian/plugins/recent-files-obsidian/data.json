@@ -1,12 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Literature Review",
+      "path": "Literature/Literature Review.md"
+    },
+    {
+      "basename": "Ghamry_Paper",
+      "path": "Literature/papers/Ghamry_Paper.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Literature/Theory.md"
+    },
+    {
+      "basename": "Real-time_autonomous_take-off_tracking_and_landing_of_UAV_on_a_moving_UGV_platform",
+      "path": "Files/Real-time_autonomous_take-off_tracking_and_landing_of_UAV_on_a_moving_UGV_platform.pdf"
+    },
+    {
+      "basename": "Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision",
+      "path": "Files/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision.pdf"
+    },
+    {
+      "basename": "Papersummary",
+      "path": "Files/Papersummary.png"
+    },
+    {
+      "basename": "Cheng_Paper",
+      "path": "Literature/papers/Cheng_Paper.md"
+    },
+    {
+      "basename": "Research on Aerial Autonomous Docking and Landing Technology of Dual Multi-rotor UAV",
+      "path": "Files/Research on Aerial Autonomous Docking and Landing Technology of Dual Multi-rotor UAV.pdf"
+    },
+    {
+      "basename": "s10846-010-9473-0",
+      "path": "Files/s10846-010-9473-0.pdf"
+    },
+    {
+      "basename": "ROS2 Commands",
+      "path": "ROS2/ROS2 Commands.md"
+    },
+    {
+      "basename": "Robotics course - Formula Sheet",
+      "path": "Robotics/Robotics course - Formula Sheet.md"
+    },
+    {
+      "basename": "PTX4",
+      "path": "ROS2/PTX4.md"
+    },
+    {
+      "basename": "Weekly Meetings",
+      "path": "MSc Proposal/Weekly Meetings.md"
+    },
+    {
+      "basename": "Project Plan",
+      "path": "MMRU/Project Plan.md"
     },
     {
       "basename": "2026-03-19",
       "path": "2026-03-19.md"
+    },
+    {
+      "basename": "Robot Arm Kinematics",
+      "path": "Robotics/Robot Arm Kinematics.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "🚀 Git Complete Workflow Cheat Sheet",
+      "path": "System Setup/🚀 Git Complete Workflow Cheat Sheet.md"
+    },
+    {
+      "basename": "VS Code",
+      "path": "System Setup/VS Code.md"
+    },
+    {
+      "basename": "Software",
+      "path": "System Setup/Software.md"
+    },
+    {
+      "basename": "Pasted image 20260319195320",
+      "path": "Pasted image 20260319195320.png"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Drawing 2026-03-19 20.05.52.excalidraw",
+      "path": "Excalidraw/Drawing 2026-03-19 20.05.52.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2026-03-19 20.09.12.excalidraw",
+      "path": "Excalidraw/Drawing 2026-03-19 20.09.12.excalidraw.md"
     },
     {
       "basename": "2026-03-04",
@@ -21,28 +109,12 @@
       "path": "ROS2/Gazebo.md"
     },
     {
-      "basename": "PTX4",
-      "path": "ROS2/PTX4.md"
-    },
-    {
       "basename": "ROS2",
       "path": "ROS2/ROS2.md"
     },
     {
       "basename": "Tuna Rice",
       "path": "recipes/Tuna Rice.md"
-    },
-    {
-      "basename": "Project Plan",
-      "path": "MMRU/Project Plan.md"
-    },
-    {
-      "basename": "Weekly Meetings",
-      "path": "MSc Proposal/Weekly Meetings.md"
-    },
-    {
-      "basename": "Literature Review",
-      "path": "Literature/Literature Review.md"
     },
     {
       "basename": "Literature Summary",
@@ -55,14 +127,6 @@
     {
       "basename": "ROS2 - checkpoints",
       "path": "ROS2/ROS2 - checkpoints.md"
-    },
-    {
-      "basename": "Robotics course - Formula Sheet",
-      "path": "Robotics/Robotics course - Formula Sheet.md"
-    },
-    {
-      "basename": "Robot Arm Kinematics",
-      "path": "Robotics/Robot Arm Kinematics.md"
     },
     {
       "basename": "Matlab",
@@ -101,10 +165,6 @@
       "path": "Daily Objectives/2026-03-05.md"
     },
     {
-      "basename": "ROS2 Commands",
-      "path": "ROS2/ROS2 Commands.md"
-    },
-    {
       "basename": "Git",
       "path": "System Setup/Git.md"
     },
@@ -121,14 +181,6 @@
       "path": "System Setup/Java.md"
     },
     {
-      "basename": "VS Code",
-      "path": "System Setup/VS Code.md"
-    },
-    {
-      "basename": "Software",
-      "path": "System Setup/Software.md"
-    },
-    {
       "basename": "Python",
       "path": "System Setup/Python.md"
     },
@@ -141,20 +193,12 @@
       "path": "System Setup/Neovim.md"
     },
     {
-      "basename": "🚀 Git Complete Workflow Cheat Sheet",
-      "path": "System Setup/🚀 Git Complete Workflow Cheat Sheet.md"
-    },
-    {
       "basename": "gh",
       "path": "System Setup/gh.md"
     },
     {
       "basename": "Bash",
       "path": "System Setup/Bash.md"
-    },
-    {
-      "basename": "Matlab",
-      "path": "System Setup/Matlab.md"
     }
   ],
   "omittedPaths": [],

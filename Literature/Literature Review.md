@@ -25,3 +25,4 @@ $$
 \ddot{x} = (\sin\psi \sin\phi + \cos\psi \cos\phi)\frac{U_z}{M}
 $$
 
+

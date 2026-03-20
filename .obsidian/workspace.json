@@ -4,109 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c8fbf9431911d1ff",
+        "id": "dbb59feeb31d4fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "f5fff4b210f1c0fd",
+            "id": "7f85d1b51884da4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS2/ROS2 Commands.md",
+                "file": "Literature/Literature Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROS2 Commands"
+              "title": "Literature Review"
             }
           },
           {
-            "id": "9430edfe3d62619d",
+            "id": "e21fb6504715ba76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics/Robotics course - Formula Sheet.md",
+                "file": "Literature/Literature Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Robotics course - Formula Sheet"
-            }
-          },
-          {
-            "id": "2dee909cc2bcfffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROS2/PTX4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PTX4"
-            }
-          },
-          {
-            "id": "2807977a17356143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSc Proposal/Weekly Meetings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Weekly Meetings"
-            }
-          },
-          {
-            "id": "a46101dbe4605d80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMRU/Project Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project Plan"
-            }
-          },
-          {
-            "id": "6eb2d39b669ea7db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-03-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-19"
-            }
-          },
-          {
-            "id": "a8610fcb9d3c66c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Literature Review"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,16 +98,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "a47c58cc05146f37",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
             }
           }
         ]
@@ -245,6 +165,16 @@
             }
           },
           {
+            "id": "a47c58cc05146f37",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
             "id": "87d08c8d760e5d2e",
             "type": "leaf",
             "state": {
@@ -299,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "e6b85105e6988fd9",
@@ -320,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,48 +264,50 @@
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a8610fcb9d3c66c1",
+  "active": "5e7351dbd8133120",
   "lastOpenFiles": [
+    "Literature/Literature Review.md",
+    "Literature/papers/Ghamry_Paper.md",
+    "Literature/Theory.md",
+    "Files/Real-time_autonomous_take-off_tracking_and_landing_of_UAV_on_a_moving_UGV_platform.pdf",
+    "Files/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision.pdf",
+    "Files/Papersummary.png",
+    "Literature/papers/Cheng_Paper.md",
+    "Files/Research on Aerial Autonomous Docking and Landing Technology of Dual Multi-rotor UAV.pdf",
+    "Files/s10846-010-9473-0.pdf",
+    "Files",
+    "Literature/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision.pdf",
+    "Literature/Research on Aerial Autonomous Docking and Landing Technology of Dual Multi-rotor UAV.pdf",
+    "Literature/s10846-010-9473-0.pdf",
+    "Literature/Real-time_autonomous_take-off_tracking_and_landing_of_UAV_on_a_moving_UGV_platform.pdf",
+    "ROS2/ROS2 Commands.md",
+    "Robotics/Robotics course - Formula Sheet.md",
+    "ROS2/PTX4.md",
+    "MSc Proposal/Weekly Meetings.md",
+    "MMRU/Project Plan.md",
     "2026-03-19.md",
+    "Robotics/Robot Arm Kinematics.md",
     "Untitled.md",
+    "System Setup/🚀 Git Complete Workflow Cheat Sheet.md",
+    "System Setup/VS Code.md",
+    "System Setup/Software.md",
     "Pasted image 20260319195320.png",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2026-03-19 20.05.52.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-19 20.09.12.excalidraw.md",
+    "Excalidraw",
     "Daily Objectives/2026-03-04.md",
     "Daily Objectives/2026-03-02.md",
     "ROS2/Gazebo.md",
-    "ROS2/PTX4.md",
     "ROS2/ROS2.md",
     "recipes/Tuna Rice.md",
-    "MMRU/Project Plan.md",
-    "Recipies",
-    "MSc Proposal/Weekly Meetings.md",
-    "MMRU",
-    "Literature/Literature Review.md",
-    "Literature/figures",
     "Literature/figures/p1-Quadrotor_Illustration.png",
-    "MSc Proposal",
     "Literature/Literature Summary.md",
     "Literature/Things to Consider.md",
-    "Literature/papers",
-    "Literature/Papers.md",
-    "Literature",
-    "ROS2/ROS2 - checkpoints.md",
-    "Robotics/Robotics course - Formula Sheet.md",
-    "Robotics/Robot Arm Kinematics.md",
-    "Useful links/Matlab.md",
-    "recipes",
-    "Useful links",
-    "Daily Objectives/2026-02-27.md",
-    "Robotics",
-    "Daily Objectives/Completed/2026-02-25.md",
-    "Daily Objectives/Completed/2026-02-26.md",
-    "Daily Objectives/Completed/2026-02-24.md",
-    "Daily Objectives/Completed/2026-02-23.md",
-    "Daily Objectives/2026-03-08.md",
-    "Daily Objectives/2026-03-07.md",
-    "Daily Objectives/2026-03-05.md",
-    "Daily Objectives/Completed"
+    "Literature/Papers.md"
   ]
 }
