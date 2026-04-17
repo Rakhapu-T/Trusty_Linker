@@ -1,16 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "Literature Review",
-      "path": "Literature/Literature Review.md"
+      "basename": "2026-04-19",
+      "path": "2026-04-19.md"
     },
     {
-      "basename": "Ghamry_Paper",
-      "path": "Literature/papers/Ghamry_Paper.md"
+      "basename": "2026-04-18",
+      "path": "2026-04-18.md"
+    },
+    {
+      "basename": "2026-04-17",
+      "path": "2026-04-17.md"
     },
     {
       "basename": "Theory",
       "path": "Literature/Theory.md"
+    },
+    {
+      "basename": "Literature Summary",
+      "path": "Literature/Literature Summary.md"
+    },
+    {
+      "basename": "Literature Review",
+      "path": "Literature/Literature Review.md"
+    },
+    {
+      "basename": "System ID",
+      "path": "System ID.md"
+    },
+    {
+      "basename": "QuadCopter Control",
+      "path": "QuadCopter Control.md"
+    },
+    {
+      "basename": "Quaternion_Control",
+      "path": "Figures/Quaternion_Control.png"
+    },
+    {
+      "basename": "QuadcopterReferenceFrame",
+      "path": "Figures/QuadcopterReferenceFrame.png"
+    },
+    {
+      "basename": "HighLevelBlockDiagram",
+      "path": "Figures/HighLevelBlockDiagram.png"
+    },
+    {
+      "basename": "Pasted image 20260409145259",
+      "path": "Figures/Pasted image 20260409145259.png"
+    },
+    {
+      "basename": "EE4114F Tasks",
+      "path": "EE4114F Tasks.md"
+    },
+    {
+      "basename": "2026-04-08",
+      "path": "2026-04-08.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "System Setup/Obsidian.md"
+    },
+    {
+      "basename": "2026-04-07",
+      "path": "2026-04-07.md"
+    },
+    {
+      "basename": "State-space_Modeling",
+      "path": "Literature/figures/State-space_Modeling.png"
+    },
+    {
+      "basename": "Project Plan",
+      "path": "MMRU/Project Plan.md"
+    },
+    {
+      "basename": "Weekly Meetings",
+      "path": "MSc Proposal/Weekly Meetings.md"
+    },
+    {
+      "basename": "Matlab",
+      "path": "Useful links/Matlab.md"
+    },
+    {
+      "basename": "2026-03-19",
+      "path": "Daily Objectives/2026-03-19.md"
+    },
+    {
+      "basename": "PID_Tuning_Flowchart",
+      "path": "Figures/PID_Tuning_Flowchart.png"
+    },
+    {
+      "basename": "Pasted image 20260319195320",
+      "path": "Figures/Pasted image 20260319195320.png"
+    },
+    {
+      "basename": "clamping_scematic",
+      "path": "Figures/clamping_scematic.png"
+    },
+    {
+      "basename": "control",
+      "path": "Figures/control.jpeg"
+    },
+    {
+      "basename": "Noise_Filtering",
+      "path": "Figures/Noise_Filtering.png"
+    },
+    {
+      "basename": "Things to Consider",
+      "path": "Literature/Things to Consider.md"
+    },
+    {
+      "basename": "Ghamry_Paper",
+      "path": "Literature/papers/Ghamry_Paper.md"
     },
     {
       "basename": "Real-time_autonomous_take-off_tracking_and_landing_of_UAV_on_a_moving_UGV_platform",
@@ -49,24 +149,8 @@
       "path": "ROS2/PTX4.md"
     },
     {
-      "basename": "Weekly Meetings",
-      "path": "MSc Proposal/Weekly Meetings.md"
-    },
-    {
-      "basename": "Project Plan",
-      "path": "MMRU/Project Plan.md"
-    },
-    {
-      "basename": "2026-03-19",
-      "path": "2026-03-19.md"
-    },
-    {
       "basename": "Robot Arm Kinematics",
       "path": "Robotics/Robot Arm Kinematics.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "🚀 Git Complete Workflow Cheat Sheet",
@@ -79,14 +163,6 @@
     {
       "basename": "Software",
       "path": "System Setup/Software.md"
-    },
-    {
-      "basename": "Pasted image 20260319195320",
-      "path": "Pasted image 20260319195320.png"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
     },
     {
       "basename": "Drawing 2026-03-19 20.05.52.excalidraw",
@@ -117,88 +193,12 @@
       "path": "recipes/Tuna Rice.md"
     },
     {
-      "basename": "Literature Summary",
-      "path": "Literature/Literature Summary.md"
-    },
-    {
-      "basename": "Things to Consider",
-      "path": "Literature/Things to Consider.md"
-    },
-    {
       "basename": "ROS2 - checkpoints",
       "path": "ROS2/ROS2 - checkpoints.md"
     },
     {
-      "basename": "Matlab",
-      "path": "Useful links/Matlab.md"
-    },
-    {
       "basename": "2026-02-27",
       "path": "Daily Objectives/2026-02-27.md"
-    },
-    {
-      "basename": "2026-02-25",
-      "path": "Daily Objectives/Completed/2026-02-25.md"
-    },
-    {
-      "basename": "2026-02-26",
-      "path": "Daily Objectives/Completed/2026-02-26.md"
-    },
-    {
-      "basename": "2026-02-24",
-      "path": "Daily Objectives/Completed/2026-02-24.md"
-    },
-    {
-      "basename": "2026-02-23",
-      "path": "Daily Objectives/Completed/2026-02-23.md"
-    },
-    {
-      "basename": "2026-03-08",
-      "path": "Daily Objectives/2026-03-08.md"
-    },
-    {
-      "basename": "2026-03-07",
-      "path": "Daily Objectives/2026-03-07.md"
-    },
-    {
-      "basename": "2026-03-05",
-      "path": "Daily Objectives/2026-03-05.md"
-    },
-    {
-      "basename": "Git",
-      "path": "System Setup/Git.md"
-    },
-    {
-      "basename": "C++",
-      "path": "System Setup/C++.md"
-    },
-    {
-      "basename": "C",
-      "path": "System Setup/C.md"
-    },
-    {
-      "basename": "Java",
-      "path": "System Setup/Java.md"
-    },
-    {
-      "basename": "Python",
-      "path": "System Setup/Python.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "System Setup/Obsidian.md"
-    },
-    {
-      "basename": "Neovim",
-      "path": "System Setup/Neovim.md"
-    },
-    {
-      "basename": "gh",
-      "path": "System Setup/gh.md"
-    },
-    {
-      "basename": "Bash",
-      "path": "System Setup/Bash.md"
     }
   ],
   "omittedPaths": [],

@@ -4,39 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "dbb59feeb31d4fe8",
+        "id": "ab0fc42dac43f723",
         "type": "tabs",
         "children": [
           {
-            "id": "7f85d1b51884da4b",
+            "id": "89ec2c8b8b425c23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Literature Review.md",
+                "file": "2026-04-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literature Review"
+              "title": "2026-04-08"
             }
           },
           {
-            "id": "e21fb6504715ba76",
+            "id": "2a0135bc03ad200b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Literature Review.md",
+                "file": "EE4114F Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literature Review"
+              "title": "EE4114F Tasks"
+            }
+          },
+          {
+            "id": "8e8cfcb3ece346d3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Figures/HighLevelBlockDiagram.png"
+              },
+              "icon": "lucide-image",
+              "title": "HighLevelBlockDiagram"
+            }
+          },
+          {
+            "id": "11606395160d8985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-04-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-19"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e6b85105e6988fd9",
@@ -250,16 +276,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
@@ -268,14 +293,40 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e21fb6504715ba76",
+  "active": "11606395160d8985",
   "lastOpenFiles": [
-    "Literature/Literature Review.md",
-    "Literature/papers/Ghamry_Paper.md",
+    "2026-04-18.md",
+    "2026-04-19.md",
+    "2026-04-17.md",
     "Literature/Theory.md",
+    "Literature/Literature Summary.md",
+    "Literature/Literature Review.md",
+    "System ID.md",
+    "QuadCopter Control.md",
+    "Figures/Quaternion_Control.png",
+    "Figures/QuadcopterReferenceFrame.png",
+    "Figures/HighLevelBlockDiagram.png",
+    "Figures/Pasted image 20260409145259.png",
+    "Figures/Thrust_Vectoring.png",
+    "Figures/Pasted image 20260409215551.png",
+    "Figures/RotationDynamicsBlockDiagram.png",
+    "Figures/BlockDiagram.png",
+    "Figures/Torques.png",
+    "Figures/Thrust_Induced_Moments.png",
+    "EE4114F Tasks.md",
+    "2026-04-08.md",
+    "System Setup/Obsidian.md",
+    "2026-04-07.md",
+    "MMRU/Project Plan.md",
+    "MSc Proposal/Weekly Meetings.md",
+    "Useful links/Matlab.md",
+    "Daily Objectives/2026-03-19.md",
+    "Figures",
+    "Untitled 1.md",
+    "Literature/Things to Consider.md",
+    "Literature/papers/Ghamry_Paper.md",
     "Files/Real-time_autonomous_take-off_tracking_and_landing_of_UAV_on_a_moving_UGV_platform.pdf",
     "Files/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision.pdf",
-    "Files/Papersummary.png",
     "Literature/papers/Cheng_Paper.md",
     "Files/Research on Aerial Autonomous Docking and Landing Technology of Dual Multi-rotor UAV.pdf",
     "Files/s10846-010-9473-0.pdf",
@@ -287,27 +338,8 @@
     "ROS2/ROS2 Commands.md",
     "Robotics/Robotics course - Formula Sheet.md",
     "ROS2/PTX4.md",
-    "MSc Proposal/Weekly Meetings.md",
-    "MMRU/Project Plan.md",
-    "2026-03-19.md",
     "Robotics/Robot Arm Kinematics.md",
-    "Untitled.md",
     "System Setup/🚀 Git Complete Workflow Cheat Sheet.md",
-    "System Setup/VS Code.md",
-    "System Setup/Software.md",
-    "Pasted image 20260319195320.png",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2026-03-19 20.05.52.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-19 20.09.12.excalidraw.md",
-    "Excalidraw",
-    "Daily Objectives/2026-03-04.md",
-    "Daily Objectives/2026-03-02.md",
-    "ROS2/Gazebo.md",
-    "ROS2/ROS2.md",
-    "recipes/Tuna Rice.md",
-    "Literature/figures/p1-Quadrotor_Illustration.png",
-    "Literature/Literature Summary.md",
-    "Literature/Things to Consider.md",
-    "Literature/Papers.md"
+    "System Setup/VS Code.md"
   ]
 }
