@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-04-19",
-      "path": "2026-04-19.md"
+      "basename": "quadcopter-slides",
+      "path": "Literature/papers/quadcopter-slides.pdf"
     },
     {
-      "basename": "2026-04-18",
-      "path": "2026-04-18.md"
+      "basename": "Q4_adaptivecontrol",
+      "path": "Literature/papers/Q4_adaptivecontrol.pdf"
+    },
+    {
+      "basename": "2026-04-22",
+      "path": "2026-04-22.md"
+    },
+    {
+      "basename": "2026-04-23",
+      "path": "2026-04-23.md"
+    },
+    {
+      "basename": "2026-04-24",
+      "path": "2026-04-24.md"
+    },
+    {
+      "basename": "Literature Review",
+      "path": "Literature/Literature Review.md"
+    },
+    {
+      "basename": "PID_control_for_attitude_stabilization_of_an_unmanned_aerial_vehicle_quad-copter",
+      "path": "Literature/papers/PID_control_for_attitude_stabilization_of_an_unmanned_aerial_vehicle_quad-copter.pdf"
+    },
+    {
+      "basename": "Modeling_simulation_and_control_study_for_the_quad-copter_UAV",
+      "path": "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf"
+    },
+    {
+      "basename": "Ghamry_Paper",
+      "path": "Literature/papers/Ghamry_Paper.md"
     },
     {
       "basename": "2026-04-17",
-      "path": "2026-04-17.md"
+      "path": "Daily Objectives/2026-04-17.md"
     },
     {
-      "basename": "Theory",
-      "path": "Literature/Theory.md"
+      "basename": "Gazebo",
+      "path": "ROS2/Gazebo.md"
     },
     {
       "basename": "Literature Summary",
       "path": "Literature/Literature Summary.md"
     },
     {
-      "basename": "Literature Review",
-      "path": "Literature/Literature Review.md"
+      "basename": "2026-04-19",
+      "path": "Daily Objectives/2026-04-19.md"
+    },
+    {
+      "basename": "2026-04-18",
+      "path": "Daily Objectives/2026-04-18.md"
+    },
+    {
+      "basename": "2026-04-07",
+      "path": "Daily Objectives/2026-04-07.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Literature/Theory.md"
     },
     {
       "basename": "System ID",
@@ -54,15 +94,11 @@
     },
     {
       "basename": "2026-04-08",
-      "path": "2026-04-08.md"
+      "path": "Daily Objectives/2026-04-08.md"
     },
     {
       "basename": "Obsidian",
       "path": "System Setup/Obsidian.md"
-    },
-    {
-      "basename": "2026-04-07",
-      "path": "2026-04-07.md"
     },
     {
       "basename": "State-space_Modeling",
@@ -107,10 +143,6 @@
     {
       "basename": "Things to Consider",
       "path": "Literature/Things to Consider.md"
-    },
-    {
-      "basename": "Ghamry_Paper",
-      "path": "Literature/papers/Ghamry_Paper.md"
     },
     {
       "basename": "Real-time_autonomous_take-off_tracking_and_landing_of_UAV_on_a_moving_UGV_platform",
@@ -167,38 +199,6 @@
     {
       "basename": "Drawing 2026-03-19 20.05.52.excalidraw",
       "path": "Excalidraw/Drawing 2026-03-19 20.05.52.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2026-03-19 20.09.12.excalidraw",
-      "path": "Excalidraw/Drawing 2026-03-19 20.09.12.excalidraw.md"
-    },
-    {
-      "basename": "2026-03-04",
-      "path": "Daily Objectives/2026-03-04.md"
-    },
-    {
-      "basename": "2026-03-02",
-      "path": "Daily Objectives/2026-03-02.md"
-    },
-    {
-      "basename": "Gazebo",
-      "path": "ROS2/Gazebo.md"
-    },
-    {
-      "basename": "ROS2",
-      "path": "ROS2/ROS2.md"
-    },
-    {
-      "basename": "Tuna Rice",
-      "path": "recipes/Tuna Rice.md"
-    },
-    {
-      "basename": "ROS2 - checkpoints",
-      "path": "ROS2/ROS2 - checkpoints.md"
-    },
-    {
-      "basename": "2026-02-27",
-      "path": "Daily Objectives/2026-02-27.md"
     }
   ],
   "omittedPaths": [],
