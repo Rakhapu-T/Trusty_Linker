@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "af48e60f27cbc09b",
+        "id": "d9d909ccbff7c76f",
         "type": "tabs",
         "children": [
           {
-            "id": "c2109ccd504f8e74",
+            "id": "2c33110abe351cd6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Literature/papers/quadcopter-slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "quadcopter-slides"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -31,7 +29,7 @@
       {
         "id": "1ce5dd639c383761",
         "type": "tabs",
-        "dimension": 64.4776119402985,
+        "dimension": 73.08209959623149,
         "children": [
           {
             "id": "5e7351dbd8133120",
@@ -88,7 +86,7 @@
       {
         "id": "98f5fa1e68445bae",
         "type": "tabs",
-        "dimension": 35.52238805970149,
+        "dimension": 26.91790040376851,
         "children": [
           {
             "id": "f325549ad2733946",
@@ -153,8 +151,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           },
           {
@@ -207,8 +205,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -233,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,26 +249,33 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c2109ccd504f8e74",
+  "active": "2c33110abe351cd6",
   "lastOpenFiles": [
-    "Literature/papers/Q4_adaptivecontrol.pdf",
+    "Figures/Differenctially_Steered_Bot.png",
+    "Figures/System_Architecture.png",
+    "Photos and Videos.md",
+    "2026-05-27_18-27-24.png",
+    "TMP.md",
+    "Untitled",
+    "EE4114F Tasks.md",
+    "System ID.md",
+    "Literature/QuadCopter Control.md",
     "2026-04-22.md",
     "2026-04-23.md",
     "2026-04-24.md",
+    "Figures/Image_Processing_Circle.png",
+    "Figures/PID_Control_Scheme.png",
+    "Figures/Prediction_Error_in_an_OOEM.png",
+    "Figures/Prediction_Error_in_an_OOEM-1.png",
+    "Figures/Quadrotor_UAV_Platform.png",
+    "Figures/Sensor_Fused_Control_Scheme.png",
     "Literature/papers/quadcopter-slides.pdf",
+    "Literature/papers/Q4_adaptivecontrol.pdf",
     "Literature/Literature Review.md",
-    "Prediction_Error_in_an_OOEM-1.png",
-    "Prediction_Error_in_an_OOEM.png",
     "Literature/papers/PID_control_for_attitude_stabilization_of_an_unmanned_aerial_vehicle_quad-copter.pdf",
     "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf",
     "Literature/papers/Ghamry_Paper.md",
-    "Differenctially_Steered_Bot.png",
     "Files/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision_annotated.pdf",
-    "System_Architecture.png",
-    "PID_Control_Scheme.png",
-    "Image_Processing_Circle.png",
-    "Sensor_Fused_Control_Scheme.png",
-    "Quadrotor_UAV_Platform.png",
     "Daily Objectives/2026-04-17.md",
     "ROS2/Gazebo.md",
     "Literature/Literature Summary.md",
@@ -277,16 +283,11 @@
     "Literature/papers/Attitude_and_Altitude_Tracking_Controller_for_Quadcopter_Dynamical_Systems.pdf",
     "Literature/papers/Unconfirmed 710943.crdownload",
     "Literature/papers/Unconfirmed 850150.crdownload",
-    "Literature/papers/eth-7387-01.pdf",
     "Daily Objectives/2026-04-19.md",
     "Daily Objectives/2026-04-18.md",
     "Daily Objectives/2026-04-07.md",
     "Literature/Theory.md",
-    "System ID.md",
-    "QuadCopter Control.md",
     "Figures/Quaternion_Control.png",
-    "Figures/QuadcopterReferenceFrame.png",
-    "EE4114F Tasks.md",
     "Daily Objectives/2026-04-08.md",
     "System Setup/Obsidian.md",
     "MMRU/Project Plan.md",
@@ -294,8 +295,6 @@
     "Useful links/Matlab.md",
     "Daily Objectives/2026-03-19.md",
     "Untitled 1.md",
-    "Literature/Things to Consider.md",
-    "Literature/papers/Cheng_Paper.md",
-    "ROS2/ROS2 Commands.md"
+    "Literature/Things to Consider.md"
   ]
 }

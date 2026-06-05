@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Differenctially_Steered_Bot",
+      "path": "Figures/Differenctially_Steered_Bot.png"
+    },
+    {
+      "basename": "System_Architecture",
+      "path": "Figures/System_Architecture.png"
+    },
+    {
+      "basename": "QuadCopter Control",
+      "path": "Literature/QuadCopter Control.md"
+    },
+    {
+      "basename": "Image_Processing_Circle",
+      "path": "Figures/Image_Processing_Circle.png"
+    },
+    {
+      "basename": "PID_Control_Scheme",
+      "path": "Figures/PID_Control_Scheme.png"
+    },
+    {
+      "basename": "Prediction_Error_in_an_OOEM",
+      "path": "Figures/Prediction_Error_in_an_OOEM.png"
+    },
+    {
+      "basename": "Prediction_Error_in_an_OOEM-1",
+      "path": "Figures/Prediction_Error_in_an_OOEM-1.png"
+    },
+    {
+      "basename": "Quadrotor_UAV_Platform",
+      "path": "Figures/Quadrotor_UAV_Platform.png"
+    },
+    {
+      "basename": "Sensor_Fused_Control_Scheme",
+      "path": "Figures/Sensor_Fused_Control_Scheme.png"
+    },
+    {
       "basename": "quadcopter-slides",
       "path": "Literature/papers/quadcopter-slides.pdf"
     },
     {
       "basename": "Q4_adaptivecontrol",
       "path": "Literature/papers/Q4_adaptivecontrol.pdf"
-    },
-    {
-      "basename": "2026-04-22",
-      "path": "2026-04-22.md"
-    },
-    {
-      "basename": "2026-04-23",
-      "path": "2026-04-23.md"
-    },
-    {
-      "basename": "2026-04-24",
-      "path": "2026-04-24.md"
     },
     {
       "basename": "Literature Review",
@@ -65,14 +89,6 @@
       "path": "Literature/Theory.md"
     },
     {
-      "basename": "System ID",
-      "path": "System ID.md"
-    },
-    {
-      "basename": "QuadCopter Control",
-      "path": "QuadCopter Control.md"
-    },
-    {
       "basename": "Quaternion_Control",
       "path": "Figures/Quaternion_Control.png"
     },
@@ -87,10 +103,6 @@
     {
       "basename": "Pasted image 20260409145259",
       "path": "Figures/Pasted image 20260409145259.png"
-    },
-    {
-      "basename": "EE4114F Tasks",
-      "path": "EE4114F Tasks.md"
     },
     {
       "basename": "2026-04-08",
@@ -167,38 +179,6 @@
     {
       "basename": "s10846-010-9473-0",
       "path": "Files/s10846-010-9473-0.pdf"
-    },
-    {
-      "basename": "ROS2 Commands",
-      "path": "ROS2/ROS2 Commands.md"
-    },
-    {
-      "basename": "Robotics course - Formula Sheet",
-      "path": "Robotics/Robotics course - Formula Sheet.md"
-    },
-    {
-      "basename": "PTX4",
-      "path": "ROS2/PTX4.md"
-    },
-    {
-      "basename": "Robot Arm Kinematics",
-      "path": "Robotics/Robot Arm Kinematics.md"
-    },
-    {
-      "basename": "🚀 Git Complete Workflow Cheat Sheet",
-      "path": "System Setup/🚀 Git Complete Workflow Cheat Sheet.md"
-    },
-    {
-      "basename": "VS Code",
-      "path": "System Setup/VS Code.md"
-    },
-    {
-      "basename": "Software",
-      "path": "System Setup/Software.md"
-    },
-    {
-      "basename": "Drawing 2026-03-19 20.05.52.excalidraw",
-      "path": "Excalidraw/Drawing 2026-03-19 20.05.52.excalidraw.md"
     }
   ],
   "omittedPaths": [],
