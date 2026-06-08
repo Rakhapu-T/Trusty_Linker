@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Literature Review",
+      "path": "Literature/Literature Review.md"
+    },
+    {
+      "basename": "Modeling_simulation_and_control_study_for_the_quad-copter_UAV",
+      "path": "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf"
+    },
+    {
+      "basename": "Ghamry_Paper",
+      "path": "Literature/papers/Ghamry_Paper.md"
+    },
+    {
+      "basename": "FULLTEXT01",
+      "path": "Literature/papers/FULLTEXT01.pdf"
+    },
+    {
+      "basename": "eth-7387-01",
+      "path": "Literature/papers/eth-7387-01.pdf"
+    },
+    {
+      "basename": "Cheng_Paper",
+      "path": "Literature/papers/Cheng_Paper.md"
+    },
+    {
+      "basename": "Attitude_and_Altitude_Tracking_Controller_for_Quadcopter_Dynamical_Systems",
+      "path": "Literature/papers/Attitude_and_Altitude_Tracking_Controller_for_Quadcopter_Dynamical_Systems.pdf"
+    },
+    {
+      "basename": "1-s2.0-S1270963820306775-main",
+      "path": "Literature/papers/1-s2.0-S1270963820306775-main.pdf"
+    },
+    {
+      "basename": "Literature Summary",
+      "path": "Literature/Literature Summary.md"
+    },
+    {
+      "basename": "Matlab",
+      "path": "Useful links/Matlab.md"
+    },
+    {
       "basename": "Differenctially_Steered_Bot",
       "path": "Figures/Differenctially_Steered_Bot.png"
     },
@@ -45,20 +85,8 @@
       "path": "Literature/papers/Q4_adaptivecontrol.pdf"
     },
     {
-      "basename": "Literature Review",
-      "path": "Literature/Literature Review.md"
-    },
-    {
       "basename": "PID_control_for_attitude_stabilization_of_an_unmanned_aerial_vehicle_quad-copter",
       "path": "Literature/papers/PID_control_for_attitude_stabilization_of_an_unmanned_aerial_vehicle_quad-copter.pdf"
-    },
-    {
-      "basename": "Modeling_simulation_and_control_study_for_the_quad-copter_UAV",
-      "path": "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf"
-    },
-    {
-      "basename": "Ghamry_Paper",
-      "path": "Literature/papers/Ghamry_Paper.md"
     },
     {
       "basename": "2026-04-17",
@@ -67,10 +95,6 @@
     {
       "basename": "Gazebo",
       "path": "ROS2/Gazebo.md"
-    },
-    {
-      "basename": "Literature Summary",
-      "path": "Literature/Literature Summary.md"
     },
     {
       "basename": "2026-04-19",
@@ -125,10 +149,6 @@
       "path": "MSc Proposal/Weekly Meetings.md"
     },
     {
-      "basename": "Matlab",
-      "path": "Useful links/Matlab.md"
-    },
-    {
       "basename": "2026-03-19",
       "path": "Daily Objectives/2026-03-19.md"
     },
@@ -167,10 +187,6 @@
     {
       "basename": "Papersummary",
       "path": "Files/Papersummary.png"
-    },
-    {
-      "basename": "Cheng_Paper",
-      "path": "Literature/papers/Cheng_Paper.md"
     },
     {
       "basename": "Research on Aerial Autonomous Docking and Landing Technology of Dual Multi-rotor UAV",

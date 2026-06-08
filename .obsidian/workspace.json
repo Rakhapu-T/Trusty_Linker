@@ -4,17 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "d9d909ccbff7c76f",
+        "id": "ba0685238cf6d2ba",
         "type": "tabs",
         "children": [
           {
-            "id": "2c33110abe351cd6",
+            "id": "262667f69e1df8df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Modeling_simulation_and_control_study_for_the_quad-copter_UAV"
+            }
+          },
+          {
+            "id": "b666912258f9cfb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/Literature Review.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Literature Review"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a98efb8ea8678e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8adc129fd547d2f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/Literature Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literature Review"
             }
           }
         ]
@@ -249,8 +286,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c33110abe351cd6",
+  "active": "b666912258f9cfb5",
   "lastOpenFiles": [
+    "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf",
+    "Literature/papers/Abstract and Applied Analysis - 2014 - Zhang - A Survey of Modelling and Identification of Quadrotor Robot.pdf",
+    "Literature/papers/Unconfirmed 243046.crdownload",
+    "Literature/papers/Ghamry_Paper.md",
+    "Literature/papers/FULLTEXT01.pdf",
+    "Literature/papers/eth-7387-01.pdf",
+    "Literature/papers/Cheng_Paper.md",
+    "Literature/papers/Attitude_and_Altitude_Tracking_Controller_for_Quadcopter_Dynamical_Systems.pdf",
+    "Literature/papers/1-s2.0-S1270963820306775-main.pdf",
+    "Literature/Literature Review.md",
+    "Literature/Literature Summary.md",
+    "Useful links/Matlab.md",
     "Figures/Differenctially_Steered_Bot.png",
     "Figures/System_Architecture.png",
     "Photos and Videos.md",
@@ -271,18 +320,9 @@
     "Figures/Sensor_Fused_Control_Scheme.png",
     "Literature/papers/quadcopter-slides.pdf",
     "Literature/papers/Q4_adaptivecontrol.pdf",
-    "Literature/Literature Review.md",
     "Literature/papers/PID_control_for_attitude_stabilization_of_an_unmanned_aerial_vehicle_quad-copter.pdf",
-    "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf",
-    "Literature/papers/Ghamry_Paper.md",
-    "Files/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision_annotated.pdf",
     "Daily Objectives/2026-04-17.md",
     "ROS2/Gazebo.md",
-    "Literature/Literature Summary.md",
-    "Literature/papers/Unconfirmed 290907.crdownload",
-    "Literature/papers/Attitude_and_Altitude_Tracking_Controller_for_Quadcopter_Dynamical_Systems.pdf",
-    "Literature/papers/Unconfirmed 710943.crdownload",
-    "Literature/papers/Unconfirmed 850150.crdownload",
     "Daily Objectives/2026-04-19.md",
     "Daily Objectives/2026-04-18.md",
     "Daily Objectives/2026-04-07.md",
@@ -292,9 +332,7 @@
     "System Setup/Obsidian.md",
     "MMRU/Project Plan.md",
     "MSc Proposal/Weekly Meetings.md",
-    "Useful links/Matlab.md",
     "Daily Objectives/2026-03-19.md",
-    "Untitled 1.md",
-    "Literature/Things to Consider.md"
+    "Untitled 1.md"
   ]
 }

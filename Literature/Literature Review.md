@@ -358,3 +358,9 @@ The paper concludes with an overview of the vision-based cooperation system betw
 
 
 ## Motivating Example
+
+
+# Quaternion-based nonlinear attitude control of quadrotor formations carrying a slung load
+
+## Motivation:
+Multirotor platforms such as the quadrotors find their use in various missions such as search and rescue, surveillance and envi- ronment monitoring. Multirotor platforms are also used for cargo transportation, deployment of sensors and load drop missions which is the focus of the work presented in this paper. 
