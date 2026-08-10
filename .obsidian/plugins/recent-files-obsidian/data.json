@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Literature Review",
-      "path": "Literature/Literature Review.md"
+      "basename": "MAVLINK",
+      "path": "Flight Controller/MAVLINK.md"
+    },
+    {
+      "basename": "UCT SWAN",
+      "path": "Flight Controller/UCT SWAN.md"
+    },
+    {
+      "basename": "PTX4",
+      "path": "ROS2/PTX4.md"
+    },
+    {
+      "basename": "ROS2",
+      "path": "ROS2/ROS2.md"
+    },
+    {
+      "basename": "ROS2 - checkpoints",
+      "path": "ROS2/ROS2 - checkpoints.md"
+    },
+    {
+      "basename": "ROS2 Commands",
+      "path": "ROS2/ROS2 Commands.md"
+    },
+    {
+      "basename": "Gazebo",
+      "path": "ROS2/Gazebo.md"
     },
     {
       "basename": "Modeling_simulation_and_control_study_for_the_quad-copter_UAV",
       "path": "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf"
+    },
+    {
+      "basename": "Literature Review",
+      "path": "Literature/Literature Review.md"
     },
     {
       "basename": "Ghamry_Paper",
@@ -93,10 +121,6 @@
       "path": "Daily Objectives/2026-04-17.md"
     },
     {
-      "basename": "Gazebo",
-      "path": "ROS2/Gazebo.md"
-    },
-    {
       "basename": "2026-04-19",
       "path": "Daily Objectives/2026-04-19.md"
     },
@@ -171,30 +195,6 @@
     {
       "basename": "Noise_Filtering",
       "path": "Figures/Noise_Filtering.png"
-    },
-    {
-      "basename": "Things to Consider",
-      "path": "Literature/Things to Consider.md"
-    },
-    {
-      "basename": "Real-time_autonomous_take-off_tracking_and_landing_of_UAV_on_a_moving_UGV_platform",
-      "path": "Files/Real-time_autonomous_take-off_tracking_and_landing_of_UAV_on_a_moving_UGV_platform.pdf"
-    },
-    {
-      "basename": "Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision",
-      "path": "Files/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision.pdf"
-    },
-    {
-      "basename": "Papersummary",
-      "path": "Files/Papersummary.png"
-    },
-    {
-      "basename": "Research on Aerial Autonomous Docking and Landing Technology of Dual Multi-rotor UAV",
-      "path": "Files/Research on Aerial Autonomous Docking and Landing Technology of Dual Multi-rotor UAV.pdf"
-    },
-    {
-      "basename": "s10846-010-9473-0",
-      "path": "Files/s10846-010-9473-0.pdf"
     }
   ],
   "omittedPaths": [],

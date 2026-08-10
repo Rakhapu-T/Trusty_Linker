@@ -4,57 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ba0685238cf6d2ba",
+        "id": "e0e89c92e55c140d",
         "type": "tabs",
         "children": [
           {
-            "id": "262667f69e1df8df",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Modeling_simulation_and_control_study_for_the_quad-copter_UAV"
-            }
-          },
-          {
-            "id": "b666912258f9cfb5",
+            "id": "da1486b82fb54e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Literature Review.md",
+                "file": "Flight Controller/UCT SWAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literature Review"
+              "title": "UCT SWAN"
+            }
+          },
+          {
+            "id": "673052280a9c349a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flight Controller/MAVLINK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAVLINK"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "a98efb8ea8678e23",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8adc129fd547d2f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/Literature Review.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Literature Review"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -260,8 +244,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -286,9 +270,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b666912258f9cfb5",
+  "active": "673052280a9c349a",
   "lastOpenFiles": [
+    "Files/Embedded Systems Design of a Low-Cost Flight Controller for use on UAV Platforms 1.pdf",
+    "Files/stm32h743vi.pdf",
+    "MAVLINK.png",
+    "MAVROS.md",
+    "Flight Controller/MAVLINK.md",
+    "Flight Controller/UCT SWAN.md",
+    "Flight Controller",
+    "ROS2/PTX4.md",
+    "ROS2/ROS2.md",
+    "ROS2/ROS2 - checkpoints.md",
+    "ROS2/ROS2 Commands.md",
+    "ROS2/Gazebo.md",
     "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf",
+    "Literature/Literature Review.md",
     "Literature/papers/Abstract and Applied Analysis - 2014 - Zhang - A Survey of Modelling and Identification of Quadrotor Robot.pdf",
     "Literature/papers/Unconfirmed 243046.crdownload",
     "Literature/papers/Ghamry_Paper.md",
@@ -297,7 +294,6 @@
     "Literature/papers/Cheng_Paper.md",
     "Literature/papers/Attitude_and_Altitude_Tracking_Controller_for_Quadcopter_Dynamical_Systems.pdf",
     "Literature/papers/1-s2.0-S1270963820306775-main.pdf",
-    "Literature/Literature Review.md",
     "Literature/Literature Summary.md",
     "Useful links/Matlab.md",
     "Figures/Differenctially_Steered_Bot.png",
@@ -305,7 +301,6 @@
     "Photos and Videos.md",
     "2026-05-27_18-27-24.png",
     "TMP.md",
-    "Untitled",
     "EE4114F Tasks.md",
     "System ID.md",
     "Literature/QuadCopter Control.md",
@@ -319,20 +314,9 @@
     "Figures/Quadrotor_UAV_Platform.png",
     "Figures/Sensor_Fused_Control_Scheme.png",
     "Literature/papers/quadcopter-slides.pdf",
-    "Literature/papers/Q4_adaptivecontrol.pdf",
-    "Literature/papers/PID_control_for_attitude_stabilization_of_an_unmanned_aerial_vehicle_quad-copter.pdf",
     "Daily Objectives/2026-04-17.md",
-    "ROS2/Gazebo.md",
     "Daily Objectives/2026-04-19.md",
     "Daily Objectives/2026-04-18.md",
-    "Daily Objectives/2026-04-07.md",
-    "Literature/Theory.md",
-    "Figures/Quaternion_Control.png",
-    "Daily Objectives/2026-04-08.md",
-    "System Setup/Obsidian.md",
-    "MMRU/Project Plan.md",
-    "MSc Proposal/Weekly Meetings.md",
-    "Daily Objectives/2026-03-19.md",
-    "Untitled 1.md"
+    "Daily Objectives/2026-04-07.md"
   ]
 }
