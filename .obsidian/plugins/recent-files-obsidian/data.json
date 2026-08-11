@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "MAVLINK",
-      "path": "Flight Controller/MAVLINK.md"
-    },
-    {
-      "basename": "UCT SWAN",
-      "path": "Flight Controller/UCT SWAN.md"
-    },
-    {
-      "basename": "PTX4",
-      "path": "ROS2/PTX4.md"
-    },
-    {
-      "basename": "ROS2",
-      "path": "ROS2/ROS2.md"
+      "basename": "Simulaton",
+      "path": "Flight Controller/Simulaton.md"
     },
     {
       "basename": "ROS2 - checkpoints",
@@ -25,16 +13,64 @@
       "path": "ROS2/ROS2 Commands.md"
     },
     {
+      "basename": "ROS2",
+      "path": "ROS2/ROS2.md"
+    },
+    {
+      "basename": "PTX4",
+      "path": "ROS2/PTX4.md"
+    },
+    {
+      "basename": "MAVLINK",
+      "path": "MAVLINK.png"
+    },
+    {
+      "basename": "p1-Quadrotor_Illustration",
+      "path": "Literature/figures/p1-Quadrotor_Illustration.png"
+    },
+    {
+      "basename": "Theory",
+      "path": "Literature/Theory.md"
+    },
+    {
+      "basename": "Things to Consider",
+      "path": "Literature/Things to Consider.md"
+    },
+    {
+      "basename": "QuadCopter Control",
+      "path": "Literature/QuadCopter Control.md"
+    },
+    {
+      "basename": "Literature Summary",
+      "path": "Literature/Literature Summary.md"
+    },
+    {
+      "basename": "Literature Review",
+      "path": "Literature/Literature Review.md"
+    },
+    {
+      "basename": "Project Plan",
+      "path": "MMRU/Project Plan.md"
+    },
+    {
+      "basename": "Weekly Meetings",
+      "path": "MSc Proposal/Weekly Meetings.md"
+    },
+    {
+      "basename": "UCT SWAN",
+      "path": "Flight Controller/UCT SWAN.md"
+    },
+    {
+      "basename": "MAVLINK",
+      "path": "Flight Controller/MAVLINK.md"
+    },
+    {
       "basename": "Gazebo",
       "path": "ROS2/Gazebo.md"
     },
     {
       "basename": "Modeling_simulation_and_control_study_for_the_quad-copter_UAV",
       "path": "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf"
-    },
-    {
-      "basename": "Literature Review",
-      "path": "Literature/Literature Review.md"
     },
     {
       "basename": "Ghamry_Paper",
@@ -61,10 +97,6 @@
       "path": "Literature/papers/1-s2.0-S1270963820306775-main.pdf"
     },
     {
-      "basename": "Literature Summary",
-      "path": "Literature/Literature Summary.md"
-    },
-    {
       "basename": "Matlab",
       "path": "Useful links/Matlab.md"
     },
@@ -75,10 +107,6 @@
     {
       "basename": "System_Architecture",
       "path": "Figures/System_Architecture.png"
-    },
-    {
-      "basename": "QuadCopter Control",
-      "path": "Literature/QuadCopter Control.md"
     },
     {
       "basename": "Image_Processing_Circle",
@@ -133,10 +161,6 @@
       "path": "Daily Objectives/2026-04-07.md"
     },
     {
-      "basename": "Theory",
-      "path": "Literature/Theory.md"
-    },
-    {
       "basename": "Quaternion_Control",
       "path": "Figures/Quaternion_Control.png"
     },
@@ -165,14 +189,6 @@
       "path": "Literature/figures/State-space_Modeling.png"
     },
     {
-      "basename": "Project Plan",
-      "path": "MMRU/Project Plan.md"
-    },
-    {
-      "basename": "Weekly Meetings",
-      "path": "MSc Proposal/Weekly Meetings.md"
-    },
-    {
       "basename": "2026-03-19",
       "path": "Daily Objectives/2026-03-19.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "Pasted image 20260319195320",
       "path": "Figures/Pasted image 20260319195320.png"
-    },
-    {
-      "basename": "clamping_scematic",
-      "path": "Figures/clamping_scematic.png"
-    },
-    {
-      "basename": "control",
-      "path": "Figures/control.jpeg"
-    },
-    {
-      "basename": "Noise_Filtering",
-      "path": "Figures/Noise_Filtering.png"
     }
   ],
   "omittedPaths": [],
