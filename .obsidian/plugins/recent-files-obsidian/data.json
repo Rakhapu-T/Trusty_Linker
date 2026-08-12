@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "System Design (New)",
+      "path": "System Design (New).md"
+    },
+    {
+      "basename": "System Design (OLD)",
+      "path": "System Design (OLD).md"
+    },
+    {
+      "basename": "System Design",
+      "path": "System Design.png"
+    },
+    {
       "basename": "Simulaton",
       "path": "Flight Controller/Simulaton.md"
+    },
+    {
+      "basename": "MAVLINK",
+      "path": "Flight Controller/MAVLINK.md"
     },
     {
       "basename": "ROS2 - checkpoints",
@@ -59,10 +75,6 @@
     {
       "basename": "UCT SWAN",
       "path": "Flight Controller/UCT SWAN.md"
-    },
-    {
-      "basename": "MAVLINK",
-      "path": "Flight Controller/MAVLINK.md"
     },
     {
       "basename": "Gazebo",
@@ -187,18 +199,6 @@
     {
       "basename": "State-space_Modeling",
       "path": "Literature/figures/State-space_Modeling.png"
-    },
-    {
-      "basename": "2026-03-19",
-      "path": "Daily Objectives/2026-03-19.md"
-    },
-    {
-      "basename": "PID_Tuning_Flowchart",
-      "path": "Figures/PID_Tuning_Flowchart.png"
-    },
-    {
-      "basename": "Pasted image 20260319195320",
-      "path": "Figures/Pasted image 20260319195320.png"
     }
   ],
   "omittedPaths": [],
