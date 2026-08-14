@@ -5,16 +5,20 @@
       "path": "System Design (New).md"
     },
     {
+      "basename": "Simulaton",
+      "path": "Flight Controller/Simulaton.md"
+    },
+    {
+      "basename": "UCT SWAN",
+      "path": "Flight Controller/UCT SWAN.md"
+    },
+    {
       "basename": "System Design (OLD)",
       "path": "System Design (OLD).md"
     },
     {
       "basename": "System Design",
       "path": "System Design.png"
-    },
-    {
-      "basename": "Simulaton",
-      "path": "Flight Controller/Simulaton.md"
     },
     {
       "basename": "MAVLINK",
@@ -71,10 +75,6 @@
     {
       "basename": "Weekly Meetings",
       "path": "MSc Proposal/Weekly Meetings.md"
-    },
-    {
-      "basename": "UCT SWAN",
-      "path": "Flight Controller/UCT SWAN.md"
     },
     {
       "basename": "Gazebo",

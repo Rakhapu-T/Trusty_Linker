@@ -45,25 +45,25 @@ These four sub-phases are **independent of each other** and can run in parallel.
 
 ## 0.1 Toolchain proof
 
-- [ ] Determine the OS version required by the UAV Toolbox Support Package for PX4 Autopilots
+- [x] Determine the OS version required by the UAV Toolbox Support Package for PX4 Autopilots ✅ 2026-08-13
     - [ ] ⚠️ This single answer fixes your ROS 2 distribution _and_ your Gazebo version. Nothing else gets installed until it's settled.
     - [ ] Ubuntu 24.04 → ROS 2 Jazzy + Gazebo Harmonic (preferred pairing)
-    - [ ] Ubuntu 22.04 → ROS 2 Humble + older Gazebo (more version friction)
-- [ ] Record the chosen stack in a version lockfile: Ubuntu / ROS 2 / Gazebo / PX4 / MATLAB release / support package version
-- [ ] Clone PX4 **v1.15.4** — this is the working tree
-- [ ] Build and fly stock: `make px4_sitl gz_x500`, connect QGroundControl, confirm arm → takeoff → land
-    - [ ] No MATLAB involved at this step. Prove PX4 alone works first.
-- [ ] Clone PX4 **main** separately as a **read-only reference tree**
-    - [ ] Source of design intelligence for the Vision Target Estimator and the `moving_platform` world
-    - [ ] ⚠️ Never build from this tree. It exists to be read.
-- [ ] Install the MATLAB support package and run one of its bundled examples **unmodified**
-- [ ] Build a **trivial passthrough** Simulink model (does nothing interesting) and generate `px4_sitl_default`
-- [ ] Launch that MATLAB-built tree against Gazebo **from the terminal**, not through the wizard
+    - [x] Ubuntu 22.04 → ROS 2 Humble + older Gazebo (more version friction) ✅ 2026-08-13
+- [x] Record the chosen stack in a version lockfile: Ubuntu / ROS 2 / Gazebo / PX4 / MATLAB release / support package version ✅ 2026-08-13
+- [x] Clone PX4 **v1.15.4** — this is the working tree ✅ 2026-08-13
+- [x] Build and fly stock: `make px4_sitl gz_x500`, connect QGroundControl, confirm arm → takeoff → land ✅ 2026-08-13
+    - [x] No MATLAB involved at this step. Prove PX4 alone works first. ✅ 2026-08-13
+- [x] Clone PX4 **main** separately as a **read-only reference tree** ✅ 2026-08-13
+    - [x] Source of design intelligence for the Vision Target Estimator and the `moving_platform` world ✅ 2026-08-13
+    - [x] ⚠️ Never build from this tree. It exists to be read. ✅ 2026-08-13
+- [x] Install the MATLAB support package and run one of its bundled examples **unmodified** ✅ 2026-08-14
+- [x] Build a **trivial passthrough** Simulink model (does nothing interesting) and generate `px4_sitl_default` ✅ 2026-08-14
+- [x] Launch that MATLAB-built tree against Gazebo **from the terminal**, not through the wizard ✅ 2026-08-14
     - [ ] ⚠️ **Highest-risk unknown in the project.** The wizard only knows how to launch jMAVSim. This combination is not a documented workflow.
-- [ ] Cross-compile the same trivial model for the `kakuteh7` target via the "My board is not listed here" path
-    - [ ] Compile only. Do not flash.
-    - [ ] ⚠️ MathWorks explicitly advises against manufacturer-supported autopilots, which is what the Kakute H7 is.
-- [ ] Initialise a git repository for your own code: ground station, vehicle models, Simulink models, launch files
+- [x] Cross-compile the same trivial model for the `kakuteh7` target via the "My board is not listed here" path ✅ 2026-08-14
+    - [x] Compile only. Do not flash. ✅ 2026-08-14
+    - [x] ⚠️ MathWorks explicitly advises against manufacturer-supported autopilots, which is what the Kakute H7 is. ✅ 2026-08-14
+- [x] Initialise a git repository for your own code: ground station, vehicle models, Simulink models, launch files ✅ 2026-08-14
 
 > [!success] Exit criterion A Simulink-generated module flies the x500 in Gazebo, **and** the identical model cross-compiles for the Kakute H7.
 
