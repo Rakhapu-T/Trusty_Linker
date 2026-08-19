@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "For Dylan",
+      "path": "For Dylan.md"
+    },
+    {
       "basename": "System Design (New)",
       "path": "System Design (New).md"
-    },
-    {
-      "basename": "Simulaton",
-      "path": "Flight Controller/Simulaton.md"
-    },
-    {
-      "basename": "UCT SWAN",
-      "path": "Flight Controller/UCT SWAN.md"
     },
     {
       "basename": "System Design (OLD)",
@@ -19,6 +15,30 @@
     {
       "basename": "System Design",
       "path": "System Design.png"
+    },
+    {
+      "basename": "MAVLINK",
+      "path": "MAVLINK.png"
+    },
+    {
+      "basename": "DroneBridge_UI",
+      "path": "DroneBridge_UI.png"
+    },
+    {
+      "basename": "DroneBridge_ESP_Overview",
+      "path": "DroneBridge_ESP_Overview.png"
+    },
+    {
+      "basename": "DroneBridge",
+      "path": "Flight Controller/DroneBridge.md"
+    },
+    {
+      "basename": "Simulaton",
+      "path": "Flight Controller/Simulaton.md"
+    },
+    {
+      "basename": "UCT SWAN",
+      "path": "Flight Controller/UCT SWAN.md"
     },
     {
       "basename": "MAVLINK",
@@ -39,10 +59,6 @@
     {
       "basename": "PTX4",
       "path": "ROS2/PTX4.md"
-    },
-    {
-      "basename": "MAVLINK",
-      "path": "MAVLINK.png"
     },
     {
       "basename": "p1-Quadrotor_Illustration",
@@ -183,22 +199,6 @@
     {
       "basename": "HighLevelBlockDiagram",
       "path": "Figures/HighLevelBlockDiagram.png"
-    },
-    {
-      "basename": "Pasted image 20260409145259",
-      "path": "Figures/Pasted image 20260409145259.png"
-    },
-    {
-      "basename": "2026-04-08",
-      "path": "Daily Objectives/2026-04-08.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "System Setup/Obsidian.md"
-    },
-    {
-      "basename": "State-space_Modeling",
-      "path": "Literature/figures/State-space_Modeling.png"
     }
   ],
   "omittedPaths": [],
