@@ -1,12 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "For Dylan",
-      "path": "For Dylan.md"
+      "basename": "notes",
+      "path": "notes.md"
+    },
+    {
+      "basename": "Experiment results",
+      "path": "Experiment results.md"
     },
     {
       "basename": "System Design (New)",
       "path": "System Design (New).md"
+    },
+    {
+      "basename": "Today",
+      "path": "Today.md"
+    },
+    {
+      "basename": "Simulaton",
+      "path": "Flight Controller/Simulaton.md"
+    },
+    {
+      "basename": "MAVLINK",
+      "path": "Flight Controller/MAVLINK.md"
+    },
+    {
+      "basename": "DroneBridge",
+      "path": "Flight Controller/DroneBridge.md"
+    },
+    {
+      "basename": "BDshot",
+      "path": "Flight Controller/BDshot.md"
+    },
+    {
+      "basename": "UCT SWAN",
+      "path": "Flight Controller/UCT SWAN.md"
+    },
+    {
+      "basename": "TODO - Create dot files for UBUNTU",
+      "path": "System Setup/TODO - Create dot files for UBUNTU.md"
+    },
+    {
+      "basename": "TODO - Create dot files for Arch",
+      "path": "System Setup/TODO - Create dot files for Arch.md"
+    },
+    {
+      "basename": "🚀 Git Complete Workflow Cheat Sheet",
+      "path": "System Setup/🚀 Git Complete Workflow Cheat Sheet.md"
+    },
+    {
+      "basename": "C++",
+      "path": "System Setup/C++.md"
+    },
+    {
+      "basename": "Java",
+      "path": "System Setup/Java.md"
+    },
+    {
+      "basename": "Bash",
+      "path": "System Setup/Bash.md"
+    },
+    {
+      "basename": "C",
+      "path": "System Setup/C.md"
+    },
+    {
+      "basename": "gh",
+      "path": "System Setup/gh.md"
+    },
+    {
+      "basename": "Git",
+      "path": "System Setup/Git.md"
+    },
+    {
+      "basename": "ROS2 - checkpoints",
+      "path": "ROS2/ROS2 - checkpoints.md"
+    },
+    {
+      "basename": "ROS2 Commands",
+      "path": "ROS2/ROS2 Commands.md"
+    },
+    {
+      "basename": "PTX4",
+      "path": "ROS2/PTX4.md"
+    },
+    {
+      "basename": "ROS2",
+      "path": "ROS2/ROS2.md"
+    },
+    {
+      "basename": "Gazebo",
+      "path": "ROS2/Gazebo.md"
     },
     {
       "basename": "System Design (OLD)",
@@ -27,38 +111,6 @@
     {
       "basename": "DroneBridge_ESP_Overview",
       "path": "DroneBridge_ESP_Overview.png"
-    },
-    {
-      "basename": "DroneBridge",
-      "path": "Flight Controller/DroneBridge.md"
-    },
-    {
-      "basename": "Simulaton",
-      "path": "Flight Controller/Simulaton.md"
-    },
-    {
-      "basename": "UCT SWAN",
-      "path": "Flight Controller/UCT SWAN.md"
-    },
-    {
-      "basename": "MAVLINK",
-      "path": "Flight Controller/MAVLINK.md"
-    },
-    {
-      "basename": "ROS2 - checkpoints",
-      "path": "ROS2/ROS2 - checkpoints.md"
-    },
-    {
-      "basename": "ROS2 Commands",
-      "path": "ROS2/ROS2 Commands.md"
-    },
-    {
-      "basename": "ROS2",
-      "path": "ROS2/ROS2.md"
-    },
-    {
-      "basename": "PTX4",
-      "path": "ROS2/PTX4.md"
     },
     {
       "basename": "p1-Quadrotor_Illustration",
@@ -91,10 +143,6 @@
     {
       "basename": "Weekly Meetings",
       "path": "MSc Proposal/Weekly Meetings.md"
-    },
-    {
-      "basename": "Gazebo",
-      "path": "ROS2/Gazebo.md"
     },
     {
       "basename": "Modeling_simulation_and_control_study_for_the_quad-copter_UAV",
@@ -151,54 +199,6 @@
     {
       "basename": "Prediction_Error_in_an_OOEM-1",
       "path": "Figures/Prediction_Error_in_an_OOEM-1.png"
-    },
-    {
-      "basename": "Quadrotor_UAV_Platform",
-      "path": "Figures/Quadrotor_UAV_Platform.png"
-    },
-    {
-      "basename": "Sensor_Fused_Control_Scheme",
-      "path": "Figures/Sensor_Fused_Control_Scheme.png"
-    },
-    {
-      "basename": "quadcopter-slides",
-      "path": "Literature/papers/quadcopter-slides.pdf"
-    },
-    {
-      "basename": "Q4_adaptivecontrol",
-      "path": "Literature/papers/Q4_adaptivecontrol.pdf"
-    },
-    {
-      "basename": "PID_control_for_attitude_stabilization_of_an_unmanned_aerial_vehicle_quad-copter",
-      "path": "Literature/papers/PID_control_for_attitude_stabilization_of_an_unmanned_aerial_vehicle_quad-copter.pdf"
-    },
-    {
-      "basename": "2026-04-17",
-      "path": "Daily Objectives/2026-04-17.md"
-    },
-    {
-      "basename": "2026-04-19",
-      "path": "Daily Objectives/2026-04-19.md"
-    },
-    {
-      "basename": "2026-04-18",
-      "path": "Daily Objectives/2026-04-18.md"
-    },
-    {
-      "basename": "2026-04-07",
-      "path": "Daily Objectives/2026-04-07.md"
-    },
-    {
-      "basename": "Quaternion_Control",
-      "path": "Figures/Quaternion_Control.png"
-    },
-    {
-      "basename": "QuadcopterReferenceFrame",
-      "path": "Figures/QuadcopterReferenceFrame.png"
-    },
-    {
-      "basename": "HighLevelBlockDiagram",
-      "path": "Figures/HighLevelBlockDiagram.png"
     }
   ],
   "omittedPaths": [],
