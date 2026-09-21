@@ -33,18 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "System Setup/Obsidian.md": "SiObsidian",
-  "System Setup/Software.md": "FasGear",
-  "System Setup/Neovim.md": "SiNeovim",
-  "System Setup/gh.md": "LiGithub",
-  "System Setup/VS Code.md": "SiVisualstudiocode",
-  "System Setup/Python.md": "SiPython",
-  "System Setup/Java.md": "FabJava",
-  "System Setup/C++.md": "SiC",
-  "System Setup/C.md": "FasC",
-  "System Setup/Bash.md": "SiGnubash",
-  "ROS2/PTX4.md": "LiDrone",
-  "ROS2/ROS2.md": "SiRos",
-  "System Setup/Git.md": "SiGit"
+  }
 }

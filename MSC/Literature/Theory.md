@@ -125,3 +125,12 @@ $$
 # Quaternions
 
 The best explanation for Quaternion Double-Cover (That I could find) can be found [here](https://www.reedbeta.com/blog/why-quaternions-double-cover/).
+
+
+# Battery
+## The three main types of Battery Models:
+1. Electrochemical models (EMs): simulate internal chemical reactions with high accuracy but require significant computational resources, making them unsuitable for UAVs.
+2. Black Box Models: includes machine learning-based approaches, depend heavily on extensive training data and often fail to generalize beyond the training conditions.
+3. Equivalent circuit models: including machine learning-based approaches, depend heavily on extensive training data and often fail to generalize beyond the training conditions.
+
+Check out chris rossa

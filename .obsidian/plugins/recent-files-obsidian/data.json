@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Motion Capture qu",
-      "path": "Motion Capture qu.md"
+      "basename": "Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision",
+      "path": "MSC/Literature/Papers/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision.pdf"
     },
     {
-      "basename": "DroneBridge_UI",
-      "path": "DroneBridge_UI.png"
+      "basename": "stm32h743vi",
+      "path": "MSC/Literature/Papers/stm32h743vi.pdf"
     },
     {
-      "basename": "Masses",
-      "path": "Masses.md"
+      "basename": "s10846-010-9473-0",
+      "path": "MSC/Literature/Papers/s10846-010-9473-0.pdf"
     },
     {
-      "basename": "Experiment results",
-      "path": "Experiment results.md"
+      "basename": "Embedded Systems Design of a Low-Cost Flight Controller for use on UAV Platforms 1",
+      "path": "MSC/Literature/Papers/Embedded Systems Design of a Low-Cost Flight Controller for use on UAV Platforms 1.pdf"
     },
     {
-      "basename": "notes",
-      "path": "notes.md"
+      "basename": "Papersummary",
+      "path": "MSC/Literature/Papers/Papersummary.png"
+    },
+    {
+      "basename": "Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision_annotated",
+      "path": "MSC/Literature/Papers/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision_annotated.pdf"
+    },
+    {
+      "basename": "Battery Literature review",
+      "path": "MSC/Literature/Battery Literature review.md"
     },
     {
       "basename": "System Design (New)",
-      "path": "System Design (New).md"
-    },
-    {
-      "basename": "Today",
-      "path": "Today.md"
-    },
-    {
-      "basename": "Simulaton",
-      "path": "Flight Controller/Simulaton.md"
-    },
-    {
-      "basename": "MAVLINK",
-      "path": "Flight Controller/MAVLINK.md"
-    },
-    {
-      "basename": "DroneBridge",
-      "path": "Flight Controller/DroneBridge.md"
-    },
-    {
-      "basename": "BDshot",
-      "path": "Flight Controller/BDshot.md"
-    },
-    {
-      "basename": "UCT SWAN",
-      "path": "Flight Controller/UCT SWAN.md"
-    },
-    {
-      "basename": "TODO - Create dot files for UBUNTU",
-      "path": "System Setup/TODO - Create dot files for UBUNTU.md"
-    },
-    {
-      "basename": "TODO - Create dot files for Arch",
-      "path": "System Setup/TODO - Create dot files for Arch.md"
-    },
-    {
-      "basename": "🚀 Git Complete Workflow Cheat Sheet",
-      "path": "System Setup/🚀 Git Complete Workflow Cheat Sheet.md"
-    },
-    {
-      "basename": "C++",
-      "path": "System Setup/C++.md"
-    },
-    {
-      "basename": "Java",
-      "path": "System Setup/Java.md"
-    },
-    {
-      "basename": "Bash",
-      "path": "System Setup/Bash.md"
-    },
-    {
-      "basename": "C",
-      "path": "System Setup/C.md"
-    },
-    {
-      "basename": "gh",
-      "path": "System Setup/gh.md"
-    },
-    {
-      "basename": "Git",
-      "path": "System Setup/Git.md"
-    },
-    {
-      "basename": "ROS2 - checkpoints",
-      "path": "ROS2/ROS2 - checkpoints.md"
-    },
-    {
-      "basename": "ROS2 Commands",
-      "path": "ROS2/ROS2 Commands.md"
-    },
-    {
-      "basename": "PTX4",
-      "path": "ROS2/PTX4.md"
-    },
-    {
-      "basename": "ROS2",
-      "path": "ROS2/ROS2.md"
-    },
-    {
-      "basename": "Gazebo",
-      "path": "ROS2/Gazebo.md"
+      "path": "MSC/System Design (New).md"
     },
     {
       "basename": "System Design (OLD)",
-      "path": "System Design (OLD).md"
+      "path": "MSC/System Design (OLD).md"
     },
     {
-      "basename": "System Design",
-      "path": "System Design.png"
-    },
-    {
-      "basename": "MAVLINK",
-      "path": "MAVLINK.png"
-    },
-    {
-      "basename": "DroneBridge_ESP_Overview",
-      "path": "DroneBridge_ESP_Overview.png"
-    },
-    {
-      "basename": "p1-Quadrotor_Illustration",
-      "path": "Literature/figures/p1-Quadrotor_Illustration.png"
+      "basename": "Trajectory Optimization Literature Review",
+      "path": "MSC/Literature/Trajectory Optimization Literature Review.md"
     },
     {
       "basename": "Theory",
-      "path": "Literature/Theory.md"
-    },
-    {
-      "basename": "Things to Consider",
-      "path": "Literature/Things to Consider.md"
+      "path": "MSC/Literature/Theory.md"
     },
     {
       "basename": "QuadCopter Control",
-      "path": "Literature/QuadCopter Control.md"
+      "path": "MSC/Literature/QuadCopter Control.md"
     },
     {
-      "basename": "Literature Summary",
-      "path": "Literature/Literature Summary.md"
+      "basename": "Control Literature Review",
+      "path": "MSC/Literature/Control Literature Review.md"
     },
     {
-      "basename": "Literature Review",
-      "path": "Literature/Literature Review.md"
+      "basename": "ROS2 Commands",
+      "path": "MSC/ROS2/ROS2 Commands.md"
+    },
+    {
+      "basename": "ROS2 - checkpoints",
+      "path": "MSC/ROS2/ROS2 - checkpoints.md"
+    },
+    {
+      "basename": "ROS2",
+      "path": "MSC/ROS2/ROS2.md"
+    },
+    {
+      "basename": "PTX4",
+      "path": "MSC/ROS2/PTX4.md"
+    },
+    {
+      "basename": "Gazebo",
+      "path": "MSC/ROS2/Gazebo.md"
+    },
+    {
+      "basename": "Matlab",
+      "path": "LINKER/Useful links/Matlab.md"
+    },
+    {
+      "basename": "Tuna Rice",
+      "path": "LINKER/recipes/Tuna Rice.md"
+    },
+    {
+      "basename": "2026-09-21",
+      "path": "Daily Objectives/2026-09-21.md"
+    },
+    {
+      "basename": "BDShot - Experiment Script",
+      "path": "MSC/Experiments/BDShot - Experiment Script.md"
+    },
+    {
+      "basename": "DroneBridge_ESP_Overview",
+      "path": "Figures/DroneBridge_ESP_Overview.png"
+    },
+    {
+      "basename": "System Design",
+      "path": "Figures/System Design.png"
+    },
+    {
+      "basename": "DroneBridge_UI",
+      "path": "Figures/DroneBridge_UI.png"
+    },
+    {
+      "basename": "Masses",
+      "path": "MSC/Experiments/Masses.md"
+    },
+    {
+      "basename": "MAVLINK",
+      "path": "Figures/MAVLINK.png"
+    },
+    {
+      "basename": "Experiment results",
+      "path": "MSC/Experiments/Experiment results.md"
+    },
+    {
+      "basename": "Cheng_Paper",
+      "path": "MSC/Literature/Control Papers/Cheng_Paper.md"
+    },
+    {
+      "basename": "Ghamry_Paper",
+      "path": "MSC/Literature/Control Papers/Ghamry_Paper.md"
+    },
+    {
+      "basename": "p1-Quadrotor_Illustration",
+      "path": "Figures/p1-Quadrotor_Illustration.png"
+    },
+    {
+      "basename": "UCT SWAN",
+      "path": "MSC/Flight Controller/UCT SWAN.md"
+    },
+    {
+      "basename": "Simulaton",
+      "path": "MSC/Flight Controller/Simulaton.md"
+    },
+    {
+      "basename": "MAVLINK",
+      "path": "MSC/Flight Controller/MAVLINK.md"
+    },
+    {
+      "basename": "DroneBridge",
+      "path": "MSC/Flight Controller/DroneBridge.md"
+    },
+    {
+      "basename": "BDshot",
+      "path": "MSC/Flight Controller/BDshot.md"
     },
     {
       "basename": "Project Plan",
       "path": "MMRU/Project Plan.md"
     },
     {
-      "basename": "Weekly Meetings",
-      "path": "MSc Proposal/Weekly Meetings.md"
+      "basename": "2026-02-27",
+      "path": "Daily Objectives/Completed/2026-02-27.md"
     },
     {
-      "basename": "Modeling_simulation_and_control_study_for_the_quad-copter_UAV",
-      "path": "Literature/papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf"
+      "basename": "2026-04-19",
+      "path": "Daily Objectives/Completed/2026-04-19.md"
     },
     {
-      "basename": "Ghamry_Paper",
-      "path": "Literature/papers/Ghamry_Paper.md"
+      "basename": "Obsidian",
+      "path": "LINUX/System Setup/Obsidian.md"
     },
     {
-      "basename": "FULLTEXT01",
-      "path": "Literature/papers/FULLTEXT01.pdf"
-    },
-    {
-      "basename": "eth-7387-01",
-      "path": "Literature/papers/eth-7387-01.pdf"
-    },
-    {
-      "basename": "Cheng_Paper",
-      "path": "Literature/papers/Cheng_Paper.md"
-    },
-    {
-      "basename": "Attitude_and_Altitude_Tracking_Controller_for_Quadcopter_Dynamical_Systems",
-      "path": "Literature/papers/Attitude_and_Altitude_Tracking_Controller_for_Quadcopter_Dynamical_Systems.pdf"
-    },
-    {
-      "basename": "1-s2.0-S1270963820306775-main",
-      "path": "Literature/papers/1-s2.0-S1270963820306775-main.pdf"
+      "basename": "Neovim",
+      "path": "LINUX/System Setup/Neovim.md"
     },
     {
       "basename": "Matlab",
-      "path": "Useful links/Matlab.md"
+      "path": "LINUX/System Setup/Matlab.md"
     },
     {
-      "basename": "Differenctially_Steered_Bot",
-      "path": "Figures/Differenctially_Steered_Bot.png"
+      "basename": "Java",
+      "path": "LINUX/System Setup/Java.md"
     },
     {
-      "basename": "System_Architecture",
-      "path": "Figures/System_Architecture.png"
+      "basename": "Git",
+      "path": "LINUX/System Setup/Git.md"
     },
     {
-      "basename": "Image_Processing_Circle",
-      "path": "Figures/Image_Processing_Circle.png"
+      "basename": "gh",
+      "path": "LINUX/System Setup/gh.md"
     },
     {
-      "basename": "PID_Control_Scheme",
-      "path": "Figures/PID_Control_Scheme.png"
+      "basename": "C++",
+      "path": "LINUX/System Setup/C++.md"
+    },
+    {
+      "basename": "C",
+      "path": "LINUX/System Setup/C.md"
+    },
+    {
+      "basename": "🚀 Git Complete Workflow Cheat Sheet",
+      "path": "LINUX/System Setup/🚀 Git Complete Workflow Cheat Sheet.md"
+    },
+    {
+      "basename": "Software",
+      "path": "LINUX/System Setup/Software.md"
+    },
+    {
+      "basename": "Python",
+      "path": "LINUX/System Setup/Python.md"
     }
   ],
   "omittedPaths": [],

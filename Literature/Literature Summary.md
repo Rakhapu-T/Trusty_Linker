@@ -1,6 +1,0 @@
----
-tags:
-  - MSc
-  - Literature
-  - statistics
----

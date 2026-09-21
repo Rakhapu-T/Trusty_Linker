@@ -33,5 +33,5 @@ These Notes are meant to outline all the software I use on my personal computer.
 2. [[PTX4]]
 
 # 5. Others
-1. [[Bash]]
+1. [[Zsh]]
 2. 
