@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d7ffef8294191cd6",
+        "id": "e24719f684c37da5",
         "type": "tabs",
         "children": [
           {
-            "id": "aa8317063cd57071",
+            "id": "cae1f8786a665b5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LINKER/Useful links/Matlab.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Matlab"
+            }
+          },
+          {
+            "id": "9c08871222d2850e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Objectives/2026-09-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-24"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,16 +167,6 @@
             }
           },
           {
-            "id": "a47c58cc05146f37",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
-            }
-          },
-          {
             "id": "87d08c8d760e5d2e",
             "type": "leaf",
             "state": {
@@ -212,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "e6b85105e6988fd9",
@@ -246,12 +255,32 @@
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e7351dbd8133120",
+  "active": "9c08871222d2850e",
   "lastOpenFiles": [
+    "Daily Objectives/2026-09-22.md",
+    "Daily Objectives/2026-09-23.md",
+    "Daily Objectives/2026-09-21.md",
+    "Daily Objectives/2026-09-24.md",
+    "LINKER/Youtube.md",
+    "LINKER/Useful links/Matlab.md",
+    "MSC/Literature/Battery_papers.zip",
+    "MSC/Literature/Theory.md",
+    "MSC/Literature/Battery Literature review.md",
+    "MSC/Literature/Battery_papers/2109.04741v3.pdf",
+    "MSC/Literature/Battery_papers/8+511-Final+Manuscript.pdf",
+    "MSC/Literature/QuadCopter Control.md",
+    "MSC/Literature/Control Literature Review.md",
+    "MSC/System Design (New).md",
+    "MSC/System Design (OLD).md",
+    "MSC/Robotics/Robot Arm Kinematics.md",
+    "MSC/Robotics/Robotics course - Formula Sheet.md",
+    "MSC/MSc Proposal/Weekly Meetings.md",
+    "MSC/Flight Controller/BDshot.md",
+    "MSC/Flight Controller/DroneBridge.md",
+    "MSC/Flight Controller/MAVLINK.md",
     "MSC/Literature/Papers",
     "MSC/Literature/Papers/stm32h743vi.pdf",
     "MSC/Literature/Papers/s10846-010-9473-0.pdf",
@@ -259,41 +288,20 @@
     "MSC/Literature/Papers/Papersummary.png",
     "MSC/Literature/Papers/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision_annotated.pdf",
     "MSC/Literature/Papers/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision.pdf",
-    "MSC/Literature/Battery Literature review.md",
-    "MSC/System Design (New).md",
-    "MSC/System Design (OLD).md",
     "MSC/Literature/Trajectory Optimization Literature Review.md",
-    "MSC/Literature/Theory.md",
-    "MSC/Literature/QuadCopter Control.md",
-    "MSC/Literature/Control Literature Review.md",
     "MSC/ROS2/ROS2 Commands.md",
     "MSC/ROS2/ROS2 - checkpoints.md",
     "MSC/ROS2/ROS2.md",
     "MSC/ROS2/PTX4.md",
     "MSC/ROS2/Gazebo.md",
-    "LINKER/Useful links/Matlab.md",
     "LINKER/recipes/Tuna Rice.md",
-    "Daily Objectives/2026-09-21.md",
     "MSC/Experiments/BDShot - Experiment Script.md",
-    "MSC/Motion Capture qu.md",
     "Untitled 1",
-    "MSC/Today.md",
     "Figures/DroneBridge_ESP_Overview.png",
     "Figures/System Design.png",
     "Figures/DroneBridge_UI.png",
-    "MSC/2026-09-20.md",
-    "MSC/Experiments/Masses.md",
-    "MSC/Experiments",
     "Figures/MAVLINK.png",
-    "MSC/Experiments/Experiment results.md",
-    "MSC/Literature/Control Papers/Cheng_Paper.md",
-    "MSC/Literature/Control Papers/Ghamry_Paper.md",
     "Figures/p1-Quadrotor_Illustration.png",
-    "MSC/Literature/Literature Summary.md",
-    "MSC/Literature/Things to Consider.md",
-    "LINUX/System Setup",
-    "LINKER/Useful links",
-    "MSC/ROS2",
     "Figures/Differenctially_Steered_Bot.png",
     "Figures/System_Architecture.png",
     "2026-05-27_18-27-24.png",

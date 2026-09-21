@@ -134,3 +134,7 @@ The best explanation for Quaternion Double-Cover (That I could find) can be foun
 3. Equivalent circuit models: including machine learning-based approaches, depend heavily on extensive training data and often fail to generalize beyond the training conditions.
 
 Check out chris rossa
+
+# Peukert's model
+1. **Loosy Goosey Definition:** If you discharge a battery very quickly, you do not get alot of useful energy out of it but if you discharge it slower, you can get more useful energy out of the battery.
+2. 
