@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "notes",
-      "path": "notes.md"
+      "basename": "Motion Capture qu",
+      "path": "Motion Capture qu.md"
+    },
+    {
+      "basename": "DroneBridge_UI",
+      "path": "DroneBridge_UI.png"
+    },
+    {
+      "basename": "Masses",
+      "path": "Masses.md"
     },
     {
       "basename": "Experiment results",
       "path": "Experiment results.md"
+    },
+    {
+      "basename": "notes",
+      "path": "notes.md"
     },
     {
       "basename": "System Design (New)",
@@ -105,10 +117,6 @@
       "path": "MAVLINK.png"
     },
     {
-      "basename": "DroneBridge_UI",
-      "path": "DroneBridge_UI.png"
-    },
-    {
       "basename": "DroneBridge_ESP_Overview",
       "path": "DroneBridge_ESP_Overview.png"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "PID_Control_Scheme",
       "path": "Figures/PID_Control_Scheme.png"
-    },
-    {
-      "basename": "Prediction_Error_in_an_OOEM",
-      "path": "Figures/Prediction_Error_in_an_OOEM.png"
-    },
-    {
-      "basename": "Prediction_Error_in_an_OOEM-1",
-      "path": "Figures/Prediction_Error_in_an_OOEM-1.png"
     }
   ],
   "omittedPaths": [],
