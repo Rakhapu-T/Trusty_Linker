@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Theory",
+      "path": "MSC/Literature/Theory.md"
+    },
+    {
+      "basename": "Battery Literature review",
+      "path": "MSC/Literature/Battery Literature review.md"
+    },
+    {
+      "basename": "Weekly Meetings",
+      "path": "MSC/Weekly Meetings.md"
+    },
+    {
       "basename": "2026-09-24",
       "path": "Daily Objectives/2026-09-24.md"
     },
@@ -23,14 +35,6 @@
     {
       "basename": "Matlab",
       "path": "LINKER/Useful links/Matlab.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "MSC/Literature/Theory.md"
-    },
-    {
-      "basename": "Battery Literature review",
-      "path": "MSC/Literature/Battery Literature review.md"
     },
     {
       "basename": "2109.04741v3",
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian",
       "path": "LINUX/System Setup/Obsidian.md"
-    },
-    {
-      "basename": "Neovim",
-      "path": "LINUX/System Setup/Neovim.md"
     }
   ],
   "omittedPaths": [],

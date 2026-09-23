@@ -137,4 +137,11 @@ Check out chris rossa
 
 # Peukert's model
 1. **Loosy Goosey Definition:** If you discharge a battery very quickly, you do not get alot of useful energy out of it but if you discharge it slower, you can get more useful energy out of the battery.
-2. 
+
+
+
+# Electric Motor Theory
+
+## Power Relation:
+ $P_{elec} = V_{motor}I_{motor} = \tau_{motor}\omega_{motor} = P_{mech}$
+ 

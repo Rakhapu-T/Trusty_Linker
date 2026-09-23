@@ -17,3 +17,4 @@ Because of these limitations, the standard quadratic model is suitable only for 
 Next to the well-established first-principles models, a recent line of work on machine-learned multicopter models has emerged [24], [25], [26], [27]. Despite being accurate, they are not well suited for range, endurance, and speed estimation of general multicopters because they do not predict the power consumption and only apply to the exact vehicle they have been trained on. 
 
 The earliest work on battery modeling dates back to the late 19th century, when Peukert studied how the capacity of lead- acid batteries depends on the discharge current [14]. Due to its simplicity, the Peukert Model has since become the standard approach to model the effective capacity under load. It has also been shown to hold for LiPo batteries at medium discharge rates [15], [28]. Generalizations to medium discharge (around 1 C) rates exist as well [29], [15].
+
