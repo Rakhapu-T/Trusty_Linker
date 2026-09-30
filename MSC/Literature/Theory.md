@@ -144,4 +144,5 @@ Check out chris rossa
 
 ## Power Relation:
  $P_{elec} = V_{motor}I_{motor} = \tau_{motor}\omega_{motor} = P_{mech}$
- 
+
+esp8266
