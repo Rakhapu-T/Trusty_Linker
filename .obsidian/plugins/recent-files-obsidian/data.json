@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "file:/home/tohlang/Projects/eee2047S/notebooks_2026/README.md"
+    },
+    {
+      "basename": "Creating Desktop Icons on Linux (Ubuntu + Arch)",
+      "path": "LINKER/Creating Desktop Icons on Linux (Ubuntu + Arch).md"
+    },
+    {
+      "basename": "Matlab",
+      "path": "LINKER/Matlab.md"
+    },
+    {
+      "basename": "plagiarism_report",
+      "path": "file:/home/tohlang/Downloads/submissions/plagiarism_report.md"
+    },
+    {
+      "basename": "Px4 Shells",
+      "path": "Px4 Shells.md"
+    },
+    {
+      "basename": "System Design (New)",
+      "path": "MSC/System Design (New).md"
+    },
+    {
+      "basename": "System Design (OLD)",
+      "path": "MSC/System Design (OLD).md"
+    },
+    {
+      "basename": "ROS2 Commands",
+      "path": "MSC/ROS2/ROS2 Commands.md"
+    },
+    {
+      "basename": "ROS2 - checkpoints",
+      "path": "MSC/ROS2/ROS2 - checkpoints.md"
+    },
+    {
+      "basename": "PTX4",
+      "path": "MSC/ROS2/PTX4.md"
+    },
+    {
+      "basename": "Gazebo",
+      "path": "MSC/ROS2/Gazebo.md"
+    },
+    {
+      "basename": "Project Plan",
+      "path": "MMRU/Project Plan.md"
+    },
+    {
+      "basename": "Zsh",
+      "path": "LINUX/System Setup/Zsh.md"
+    },
+    {
+      "basename": "Youtube",
+      "path": "LINKER/Youtube.md"
+    },
+    {
+      "basename": "kakute_h7_px4_console_guide",
+      "path": "file:/home/tohlang/Downloads/kakute_h7_px4_console_guide.md"
+    },
+    {
+      "basename": "README Creating Desktop Icons on Linux (Ubuntu)(1)",
+      "path": "file:/home/tohlang/Downloads/README Creating Desktop Icons on Linux (Ubuntu)(1).md"
+    },
+    {
+      "basename": "README Creating Desktop Icons on Linux (Ubuntu)",
+      "path": "file:/home/tohlang/Downloads/README Creating Desktop Icons on Linux (Ubuntu).md"
+    },
+    {
       "basename": "Theory",
       "path": "MSC/Literature/Theory.md"
     },
@@ -29,14 +97,6 @@
       "path": "Daily Objectives/2026-09-21.md"
     },
     {
-      "basename": "Youtube",
-      "path": "LINKER/Youtube.md"
-    },
-    {
-      "basename": "Matlab",
-      "path": "LINKER/Useful links/Matlab.md"
-    },
-    {
       "basename": "2109.04741v3",
       "path": "MSC/Literature/Battery_papers/2109.04741v3.pdf"
     },
@@ -51,14 +111,6 @@
     {
       "basename": "Control Literature Review",
       "path": "MSC/Literature/Control Literature Review.md"
-    },
-    {
-      "basename": "System Design (New)",
-      "path": "MSC/System Design (New).md"
-    },
-    {
-      "basename": "System Design (OLD)",
-      "path": "MSC/System Design (OLD).md"
     },
     {
       "basename": "Robot Arm Kinematics",
@@ -113,24 +165,8 @@
       "path": "MSC/Literature/Trajectory Optimization Literature Review.md"
     },
     {
-      "basename": "ROS2 Commands",
-      "path": "MSC/ROS2/ROS2 Commands.md"
-    },
-    {
-      "basename": "ROS2 - checkpoints",
-      "path": "MSC/ROS2/ROS2 - checkpoints.md"
-    },
-    {
       "basename": "ROS2",
       "path": "MSC/ROS2/ROS2.md"
-    },
-    {
-      "basename": "PTX4",
-      "path": "MSC/ROS2/PTX4.md"
-    },
-    {
-      "basename": "Gazebo",
-      "path": "MSC/ROS2/Gazebo.md"
     },
     {
       "basename": "Tuna Rice",
@@ -163,42 +199,6 @@
     {
       "basename": "Experiment results",
       "path": "MSC/Experiments/Experiment results.md"
-    },
-    {
-      "basename": "Cheng_Paper",
-      "path": "MSC/Literature/Control Papers/Cheng_Paper.md"
-    },
-    {
-      "basename": "Ghamry_Paper",
-      "path": "MSC/Literature/Control Papers/Ghamry_Paper.md"
-    },
-    {
-      "basename": "p1-Quadrotor_Illustration",
-      "path": "Figures/p1-Quadrotor_Illustration.png"
-    },
-    {
-      "basename": "UCT SWAN",
-      "path": "MSC/Flight Controller/UCT SWAN.md"
-    },
-    {
-      "basename": "Simulaton",
-      "path": "MSC/Flight Controller/Simulaton.md"
-    },
-    {
-      "basename": "Project Plan",
-      "path": "MMRU/Project Plan.md"
-    },
-    {
-      "basename": "2026-02-27",
-      "path": "Daily Objectives/Completed/2026-02-27.md"
-    },
-    {
-      "basename": "2026-04-19",
-      "path": "Daily Objectives/Completed/2026-04-19.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "LINUX/System Setup/Obsidian.md"
     }
   ],
   "omittedPaths": [],
