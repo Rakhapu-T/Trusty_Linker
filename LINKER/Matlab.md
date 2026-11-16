@@ -7,6 +7,8 @@ tags:
 
 # Installing Toolboxes on Linux
 
+Note: This can all be avoided by installing matlab in a directory with user access.	 
+
 **The Issue:** When installing toolboxes on a standard Linux installation (usually in `/usr/local/MATLAB/`), users encounter permission errors because the directory is owned by `root`. Attempting to run MATLAB as `sudo` to bypass this often results in a **License Manager Error -9**, as the license is tied to the specific user account and not the root user.
 
 **The Solution:** Use the MATLAB package manager (mpm) to install the desired toolbox from the terminal.

@@ -83,30 +83,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINKER/Creating Desktop Icons on Linux (Ubuntu + Arch).md",
+                "file": "LINKER/recipes/Tuna Rice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating Desktop Icons on Linux (Ubuntu + Arch)"
+              "title": "Tuna Rice"
             }
           },
           {
-            "id": "fbef7eb8898b2b4f",
+            "id": "fb064ce75b6a942a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:/home/tohlang/Projects/eee2047S/notebooks_2026/README.md",
+                "file": "LINKER/Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Obsidian"
+            }
+          },
+          {
+            "id": "7089ecda21c654bd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MSC/Literature/Battery_papers/Characteristics_Evaluation_of_14_Battery_Equivalent_Circuit_Models.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Characteristics_Evaluation_of_14_Battery_Equivalent_Circuit_Models"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -328,45 +340,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbef7eb8898b2b4f",
+  "active": "5e7351dbd8133120",
   "lastOpenFiles": [
-    "LINKER/Matlab.md",
-    "file:/home/tohlang/Downloads/submissions/plagiarism_report.md",
-    "MSC/System Design (New).md",
-    "MSC/System Design (OLD).md",
-    "MSC/ROS2/ROS2 Commands.md",
-    "MSC/ROS2/ROS2 - checkpoints.md",
-    "MSC/ROS2/PTX4.md",
-    "MSC/ROS2/Gazebo.md",
-    "MMRU/Project Plan.md",
-    "LINUX/System Setup/Zsh.md",
-    "LINKER/Youtube.md",
-    "LINKER/Creating Desktop Icons on Linux (Ubuntu + Arch).md",
-    "Px4 Shells.md",
-    "file:/home/tohlang/Downloads/kakute_h7_px4_console_guide.md",
-    "file:/home/tohlang/Downloads/README Creating Desktop Icons on Linux (Ubuntu)(1).md",
-    "Untitled 1.md",
-    "file:/home/tohlang/Downloads/README Creating Desktop Icons on Linux (Ubuntu).md",
-    "MSC/Literature/Theory.md",
-    "MSC/Literature/Books/Principles of Electric Machines and Power Electronics, 3rd Edition (EEE2044S).pdf",
-    "MSC/Literature/Books",
+    "MSC/Literature/Battery_papers/Additional Battery Papers/State_of_charge_estimation_of_a_Li_ion_b.pdf",
+    "MSC/Literature/Battery_papers/Additional Battery Papers/Comparison_Study_on_the_Battery_SoC_Esti.pdf",
+    "MSC/Literature/Battery_papers/Additional Battery Papers/A_parameter_adaptive_method_for_state_of.pdf",
+    "MSC/Literature/Battery_papers/Additional Battery Papers/Lithium_ion_battery_state_of_charge_esti.pdf",
+    "MSC/Additional Battery Papers/Lithium_ion_battery_state_of_charge_esti-1.pdf",
+    "MSC/Literature/Battery_papers/Additional Battery Papers/Estimation_of_State_of_Charge_for_Lithiu.pdf",
+    "MSC/Additional Battery Papers/State_of_charge_estimation_of_a_Li_ion_b-1.pdf",
+    "MSC/Literature/Battery_papers/Additional Battery Papers/Estimation_of_lithium_ion_battery_state.pdf",
+    "MSC/Literature/Battery_papers/Additional Battery Papers/Battery_state_of_the_charge_estimation_u.pdf",
+    "MSC/Literature/Battery_papers/Additional Battery Papers/State_of_Charge_Estimation_of_Lithium_Io.pdf",
+    "MSC/Literature/Battery_papers/Additional Battery Papers/Parameters_identification_of_equivalent.pdf",
+    "Untitled.md",
+    "LINKER/Obsidian.md",
     "MSC/Literature/Battery Literature review.md",
-    "MSC/Weekly Meetings.md",
-    "Daily Objectives/2026-09-24.md",
-    "Daily Objectives/2026-09-22.md",
-    "Daily Objectives/2026-09-23.md",
-    "Daily Objectives/2026-09-21.md",
-    "MSC/Literature/Battery_papers.zip",
-    "MSC/Literature/Battery_papers/2109.04741v3.pdf",
-    "MSC/Literature/Battery_papers/8+511-Final+Manuscript.pdf",
+    "MSC/Literature/Theory.md",
+    "MSC/Literature/Trajectory Optimization Literature Review.md",
     "MSC/Literature/QuadCopter Control.md",
     "MSC/Literature/Control Literature Review.md",
-    "MSC/Literature/Papers",
-    "MSC/Literature/Papers/stm32h743vi.pdf",
-    "MSC/Literature/Papers/s10846-010-9473-0.pdf",
-    "MSC/Literature/Papers/Embedded Systems Design of a Low-Cost Flight Controller for use on UAV Platforms 1.pdf",
+    "LINKER/Matlab.md",
+    "LINKER/Creating Desktop Icons on Linux (Ubuntu + Arch).md",
+    "LINKER/🚀 Git Cheatsheet.md",
+    "Daily Objectives/2026-11-16.md",
+    "Daily Objectives/Completed/2026-02-24.md",
+    "Daily Objectives/Completed/2026-02-23.md",
+    "LINKER/Software.md",
+    "LINKER/recipes/Recipe List.md",
+    "LINKER/recipes/Tuna Rice.md",
+    "Neovim.md",
+    "LINUX/System Setup/C++.md",
+    "LINUX/System Setup/gh.md",
+    "LINUX/System Setup/Git.md",
+    "LINUX/System Setup/Java.md",
+    "LINUX/System Setup/Matlab.md",
+    "LINUX/System Setup/Neovim.md",
+    "LINUX/System Setup/Python.md",
+    "LINUX/System Setup/TODO - Create dot files for Arch.md",
     "MSC/Literature/Papers/Papersummary.png",
-    "MSC/Literature/Papers/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision_annotated.pdf",
     "Figures/DroneBridge_ESP_Overview.png",
     "Figures/System Design.png",
     "Figures/DroneBridge_UI.png",

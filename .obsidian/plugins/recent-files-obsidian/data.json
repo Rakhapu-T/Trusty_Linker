@@ -1,24 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "file:/home/tohlang/Projects/eee2047S/notebooks_2026/README.md"
+      "basename": "Characteristics_Evaluation_of_14_Battery_Equivalent_Circuit_Models",
+      "path": "MSC/Literature/Battery_papers/Characteristics_Evaluation_of_14_Battery_Equivalent_Circuit_Models.pdf"
     },
     {
-      "basename": "Creating Desktop Icons on Linux (Ubuntu + Arch)",
-      "path": "LINKER/Creating Desktop Icons on Linux (Ubuntu + Arch).md"
+      "basename": "Battery_Testing_and_Discharge_Model_Validation_for",
+      "path": "MSC/Literature/Battery_papers/Battery_Testing_and_Discharge_Model_Validation_for.pdf"
+    },
+    {
+      "basename": "aerospace-11-00016-v2",
+      "path": "MSC/Literature/Battery_papers/aerospace-11-00016-v2.pdf"
+    },
+    {
+      "basename": "2109.04741v3",
+      "path": "MSC/Literature/Battery_papers/2109.04741v3.pdf"
+    },
+    {
+      "basename": "8+511-Final+Manuscript",
+      "path": "MSC/Literature/Battery_papers/8+511-Final+Manuscript.pdf"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "LINKER/Obsidian.md"
+    },
+    {
+      "basename": "Battery Literature review",
+      "path": "MSC/Literature/Battery Literature review.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "MSC/Literature/Theory.md"
+    },
+    {
+      "basename": "QuadCopter Control",
+      "path": "MSC/Literature/QuadCopter Control.md"
+    },
+    {
+      "basename": "Control Literature Review",
+      "path": "MSC/Literature/Control Literature Review.md"
+    },
+    {
+      "basename": "Principles of Electric Machines and Power Electronics, 3rd Edition (EEE2044S)",
+      "path": "MSC/Literature/Books/Principles of Electric Machines and Power Electronics, 3rd Edition (EEE2044S).pdf"
     },
     {
       "basename": "Matlab",
       "path": "LINKER/Matlab.md"
     },
     {
-      "basename": "plagiarism_report",
-      "path": "file:/home/tohlang/Downloads/submissions/plagiarism_report.md"
+      "basename": "Creating Desktop Icons on Linux (Ubuntu + Arch)",
+      "path": "LINKER/Creating Desktop Icons on Linux (Ubuntu + Arch).md"
+    },
+    {
+      "basename": "🚀 Git Cheatsheet",
+      "path": "LINKER/🚀 Git Cheatsheet.md"
+    },
+    {
+      "basename": "2026-11-16",
+      "path": "Daily Objectives/2026-11-16.md"
+    },
+    {
+      "basename": "2026-02-24",
+      "path": "Daily Objectives/Completed/2026-02-24.md"
+    },
+    {
+      "basename": "2026-02-23",
+      "path": "Daily Objectives/Completed/2026-02-23.md"
+    },
+    {
+      "basename": "Software",
+      "path": "LINKER/Software.md"
+    },
+    {
+      "basename": "Recipe List",
+      "path": "LINKER/recipes/Recipe List.md"
+    },
+    {
+      "basename": "Tuna Rice",
+      "path": "LINKER/recipes/Tuna Rice.md"
+    },
+    {
+      "basename": "1-s2.0-S1270963820306775-main",
+      "path": "MSC/Literature/Control Papers/1-s2.0-S1270963820306775-main.pdf"
+    },
+    {
+      "basename": "Modeling_simulation_and_control_study_for_the_quad-copter_UAV",
+      "path": "MSC/Literature/Control Papers/Modeling_simulation_and_control_study_for_the_quad-copter_UAV.pdf"
+    },
+    {
+      "basename": "FULLTEXT01",
+      "path": "MSC/Literature/Control Papers/FULLTEXT01.pdf"
+    },
+    {
+      "basename": "eth-7387-01",
+      "path": "MSC/Literature/Control Papers/eth-7387-01.pdf"
+    },
+    {
+      "basename": "Cheng_Paper",
+      "path": "MSC/Literature/Control Papers/Cheng_Paper.md"
+    },
+    {
+      "basename": "Attitude_and_Altitude_Tracking_Controller_for_Quadcopter_Dynamical_Systems",
+      "path": "MSC/Literature/Control Papers/Attitude_and_Altitude_Tracking_Controller_for_Quadcopter_Dynamical_Systems.pdf"
+    },
+    {
+      "basename": "Abstract and Applied Analysis - 2014 - Zhang - A Survey of Modelling and Identification of Quadrotor Robot",
+      "path": "MSC/Literature/Control Papers/Abstract and Applied Analysis - 2014 - Zhang - A Survey of Modelling and Identification of Quadrotor Robot.pdf"
     },
     {
       "basename": "Px4 Shells",
-      "path": "Px4 Shells.md"
+      "path": "MSC/Flight Controller/Px4 Shells.md"
+    },
+    {
+      "basename": "README",
+      "path": "file:/home/tohlang/Projects/eee2047S/notebooks_2026/README.md"
+    },
+    {
+      "basename": "plagiarism_report",
+      "path": "file:/home/tohlang/Downloads/submissions/plagiarism_report.md"
     },
     {
       "basename": "System Design (New)",
@@ -49,10 +153,6 @@
       "path": "MMRU/Project Plan.md"
     },
     {
-      "basename": "Zsh",
-      "path": "LINUX/System Setup/Zsh.md"
-    },
-    {
       "basename": "Youtube",
       "path": "LINKER/Youtube.md"
     },
@@ -69,48 +169,8 @@
       "path": "file:/home/tohlang/Downloads/README Creating Desktop Icons on Linux (Ubuntu).md"
     },
     {
-      "basename": "Theory",
-      "path": "MSC/Literature/Theory.md"
-    },
-    {
-      "basename": "Battery Literature review",
-      "path": "MSC/Literature/Battery Literature review.md"
-    },
-    {
       "basename": "Weekly Meetings",
       "path": "MSC/Weekly Meetings.md"
-    },
-    {
-      "basename": "2026-09-24",
-      "path": "Daily Objectives/2026-09-24.md"
-    },
-    {
-      "basename": "2026-09-22",
-      "path": "Daily Objectives/2026-09-22.md"
-    },
-    {
-      "basename": "2026-09-23",
-      "path": "Daily Objectives/2026-09-23.md"
-    },
-    {
-      "basename": "2026-09-21",
-      "path": "Daily Objectives/2026-09-21.md"
-    },
-    {
-      "basename": "2109.04741v3",
-      "path": "MSC/Literature/Battery_papers/2109.04741v3.pdf"
-    },
-    {
-      "basename": "8+511-Final+Manuscript",
-      "path": "MSC/Literature/Battery_papers/8+511-Final+Manuscript.pdf"
-    },
-    {
-      "basename": "QuadCopter Control",
-      "path": "MSC/Literature/QuadCopter Control.md"
-    },
-    {
-      "basename": "Control Literature Review",
-      "path": "MSC/Literature/Control Literature Review.md"
     },
     {
       "basename": "Robot Arm Kinematics",
@@ -119,10 +179,6 @@
     {
       "basename": "Robotics course - Formula Sheet",
       "path": "MSC/Robotics/Robotics course - Formula Sheet.md"
-    },
-    {
-      "basename": "Weekly Meetings",
-      "path": "MSC/MSc Proposal/Weekly Meetings.md"
     },
     {
       "basename": "BDshot",
@@ -135,70 +191,6 @@
     {
       "basename": "MAVLINK",
       "path": "MSC/Flight Controller/MAVLINK.md"
-    },
-    {
-      "basename": "Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision",
-      "path": "MSC/Literature/Papers/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision.pdf"
-    },
-    {
-      "basename": "stm32h743vi",
-      "path": "MSC/Literature/Papers/stm32h743vi.pdf"
-    },
-    {
-      "basename": "s10846-010-9473-0",
-      "path": "MSC/Literature/Papers/s10846-010-9473-0.pdf"
-    },
-    {
-      "basename": "Embedded Systems Design of a Low-Cost Flight Controller for use on UAV Platforms 1",
-      "path": "MSC/Literature/Papers/Embedded Systems Design of a Low-Cost Flight Controller for use on UAV Platforms 1.pdf"
-    },
-    {
-      "basename": "Papersummary",
-      "path": "MSC/Literature/Papers/Papersummary.png"
-    },
-    {
-      "basename": "Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision_annotated",
-      "path": "MSC/Literature/Papers/Autonomous_takeoff_tracking_and_landing_of_a_UAV_on_a_moving_UGV_using_onboard_monocular_vision_annotated.pdf"
-    },
-    {
-      "basename": "Trajectory Optimization Literature Review",
-      "path": "MSC/Literature/Trajectory Optimization Literature Review.md"
-    },
-    {
-      "basename": "ROS2",
-      "path": "MSC/ROS2/ROS2.md"
-    },
-    {
-      "basename": "Tuna Rice",
-      "path": "LINKER/recipes/Tuna Rice.md"
-    },
-    {
-      "basename": "BDShot - Experiment Script",
-      "path": "MSC/Experiments/BDShot - Experiment Script.md"
-    },
-    {
-      "basename": "DroneBridge_ESP_Overview",
-      "path": "Figures/DroneBridge_ESP_Overview.png"
-    },
-    {
-      "basename": "System Design",
-      "path": "Figures/System Design.png"
-    },
-    {
-      "basename": "DroneBridge_UI",
-      "path": "Figures/DroneBridge_UI.png"
-    },
-    {
-      "basename": "Masses",
-      "path": "MSC/Experiments/Masses.md"
-    },
-    {
-      "basename": "MAVLINK",
-      "path": "Figures/MAVLINK.png"
-    },
-    {
-      "basename": "Experiment results",
-      "path": "MSC/Experiments/Experiment results.md"
     }
   ],
   "omittedPaths": [],

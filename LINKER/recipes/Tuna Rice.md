@@ -2,6 +2,7 @@
 tags:
   - recipe
   - food
+  - cooking
 ---
 
 # 1. Simple Tuna Rice Bowl

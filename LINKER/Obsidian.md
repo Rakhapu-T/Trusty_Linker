@@ -10,8 +10,7 @@ Either one of the following themes:
 # 3. Plugins
 
 Below is my preferred Obsidian plugin setup, including the specific configurations I use.
-You can find the bundled `.obsidian` folder (containing all plugin settings and configurations) here:
-`[link here]`
+You can find the bundled `.obsidian` folder (containing all plugin settings and configurations):
 
 1. Calendar
 2. Iconize
@@ -43,6 +42,6 @@ You can find the bundled `.obsidian` folder (containing all plugin settings and 
 2. Setup [Obsidian Authentication](https://publish.obsidian.md/git-doc/Authentication)
 3. Setup [[Git#0. Create & Add SSH keys to GitHub For Authentication| GitHub ssh authentication]].
 4. Create remote repo
-5. [[🚀 Git Complete Workflow Cheat Sheet#Add Remote|Add Remote]] origin.
-6. [[🚀 Git Complete Workflow Cheat Sheet#First Push (Set Upstream)|First Push (Set Upstream)]]
+5. [[🚀 Git Cheatsheet#Add Remote|Add Remote]] origin.
+6. [[🚀 Git Cheatsheet#First Push (Set Upstream)|First Push (Set Upstream)]]
 7. run (ctrl + p) "git: commit and sync" from Obsidian to confirm operation.

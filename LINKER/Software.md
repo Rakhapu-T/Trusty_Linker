@@ -6,7 +6,7 @@ These Notes are meant to outline all the software I use on my personal computer.
 
 # 1. Essentials (Must haves)
 1. :FabBrave: [Brave browser](https://brave.com/)
-2. :SiMicrosoftteams: [Teams for Linux (snap)](https://github.com/IsmaelMartinez/teams-for-linux)
+2. :SiTorbrowser:[Zen Browser](https://zen-browser.app/)
 3. [[Obsidian]]
 4. [[VS Code]]
 5. [[Neovim]]
