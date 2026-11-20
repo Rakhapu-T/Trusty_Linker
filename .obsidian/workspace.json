@@ -109,12 +109,14 @@
             "id": "7089ecda21c654bd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MSC/Literature/Battery_papers/Characteristics_Evaluation_of_14_Battery_Equivalent_Circuit_Models.pdf"
+                "file": "Daily Objectives/2026-11-21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Characteristics_Evaluation_of_14_Battery_Equivalent_Circuit_Models"
+              "icon": "lucide-file",
+              "title": "2026-11-21"
             }
           }
         ],
@@ -340,8 +342,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e7351dbd8133120",
+  "active": "7089ecda21c654bd",
   "lastOpenFiles": [
+    "Daily Objectives/2026-11-16.md",
+    "Daily Objectives/2026-11-21.md",
+    "LINKER/recipes/Recipe List.md",
+    "MSC/Literature/Battery_papers/Characteristics_Evaluation_of_14_Battery_Equivalent_Circuit_Models.pdf",
     "MSC/Literature/Battery_papers/Additional Battery Papers/State_of_charge_estimation_of_a_Li_ion_b.pdf",
     "MSC/Literature/Battery_papers/Additional Battery Papers/Comparison_Study_on_the_Battery_SoC_Esti.pdf",
     "MSC/Literature/Battery_papers/Additional Battery Papers/A_parameter_adaptive_method_for_state_of.pdf",
@@ -351,8 +357,6 @@
     "MSC/Additional Battery Papers/State_of_charge_estimation_of_a_Li_ion_b-1.pdf",
     "MSC/Literature/Battery_papers/Additional Battery Papers/Estimation_of_lithium_ion_battery_state.pdf",
     "MSC/Literature/Battery_papers/Additional Battery Papers/Battery_state_of_the_charge_estimation_u.pdf",
-    "MSC/Literature/Battery_papers/Additional Battery Papers/State_of_Charge_Estimation_of_Lithium_Io.pdf",
-    "MSC/Literature/Battery_papers/Additional Battery Papers/Parameters_identification_of_equivalent.pdf",
     "Untitled.md",
     "LINKER/Obsidian.md",
     "MSC/Literature/Battery Literature review.md",
@@ -363,11 +367,9 @@
     "LINKER/Matlab.md",
     "LINKER/Creating Desktop Icons on Linux (Ubuntu + Arch).md",
     "LINKER/🚀 Git Cheatsheet.md",
-    "Daily Objectives/2026-11-16.md",
     "Daily Objectives/Completed/2026-02-24.md",
     "Daily Objectives/Completed/2026-02-23.md",
     "LINKER/Software.md",
-    "LINKER/recipes/Recipe List.md",
     "LINKER/recipes/Tuna Rice.md",
     "Neovim.md",
     "LINUX/System Setup/C++.md",
